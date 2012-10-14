@@ -1,0 +1,1002 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Documents and Settings\Andrew Heath\My Documents\EuroScope\Sectors\ZNY.sct2
+SECTORTITLE:ZNY.sct2
+Airports:01NK:name
+Airports:0VA5:name
+Airports:13MA:name
+Airports:13PA:name
+Airports:1PA5:name
+Airports:2VA9:name
+Airports:2VG2:name
+Airports:31VA:name
+Airports:3NJ6:name
+Airports:54NY:name
+Airports:63NY:name
+Airports:6N5:name
+Airports:73OH:name
+Airports:7PA3:name
+Airports:89NY:name
+Airports:CDG3:name
+Airports:CDU9:name
+Airports:CGV2:name
+Airports:CNA3:name
+Airports:CNC3:name
+Airports:CNF4:name
+Airports:CNF9:name
+Airports:CNL3:name
+Airports:CNM4:name
+Airports:CNQ3:name
+Airports:CNS7:name
+Airports:CNV8:name
+Airports:CNY3:name
+Airports:CNZ8:name
+Airports:CPE4:name
+Airports:CPR7:name
+Airports:CPU6:name
+Airports:CPZ3:name
+Airports:CRL2:name
+Airports:CTR3:name
+Airports:CYCE:name
+Airports:CYEE:name
+Airports:CYFD:name
+Airports:CYGD:name
+Airports:CYGK:name
+Airports:CYHM:name
+Airports:CYHS:name
+Airports:CYKF:name
+Airports:CYKZ:name
+Airports:CYLS:name
+Airports:CYOO:name
+Airports:CYOS:name
+Airports:CYPQ:name
+Airports:CYQA:name
+Airports:CYQS:name
+Airports:CYSH:name
+Airports:CYSN:name
+Airports:CYTB:name
+Airports:CYTR:name
+Airports:CYTZ:name
+Airports:CYVV:name
+Airports:CYXU:name
+Airports:CYYZ:name
+Airports:CYZD:name
+Airports:CZBA:name
+Airports:JRA:name
+Airports:JRB:name
+Airports:K00N:name
+Airports:K01G:name
+Airports:K02G:name
+Airports:K04G:name
+Airports:K06N:name
+Airports:K07B:name
+Airports:K08B:name
+Airports:K08N:name
+Airports:K08R:name
+Airports:K09N:name
+Airports:K0B1:name
+Airports:K0B2:name
+Airports:K0B5:name
+Airports:K0B7:name
+Airports:K0B8:name
+Airports:K0G0:name
+Airports:K0G7:name
+Airports:K0N4:name
+Airports:K0N6:name
+Airports:K0V4:name
+Airports:K0W3:name
+Airports:K10G:name
+Airports:K11N:name
+Airports:K12N:name
+Airports:K13N:name
+Airports:K15G:name
+Airports:K15N:name
+Airports:K17N:name
+Airports:K19N:name
+Airports:K1A1:name
+Airports:K1B1:name
+Airports:K1B2:name
+Airports:K1B5:name
+Airports:K1B6:name
+Airports:K1B8:name
+Airports:K1B9:name
+Airports:K1C3:name
+Airports:K1D4:name
+Airports:K1E8:name
+Airports:K1F2:name
+Airports:K1G3:name
+Airports:K1G5:name
+Airports:K1G8:name
+Airports:K1H1:name
+Airports:K1H4:name
+Airports:K1I5:name
+Airports:K1M8:name
+Airports:K1N3:name
+Airports:K1N5:name
+Airports:K1N7:name
+Airports:K1W3:name
+Airports:K1W5:name
+Airports:K20N:name
+Airports:K21N:name
+Airports:K22D:name
+Airports:K22N:name
+Airports:K26N:name
+Airports:K28M:name
+Airports:K28N:name
+Airports:K29D:name
+Airports:K29N:name
+Airports:K2B1:name
+Airports:K2B2:name
+Airports:K2B3:name
+Airports:K2B7:name
+Airports:K2B9:name
+Airports:K2D1:name
+Airports:K2D7:name
+Airports:K2G1:name
+Airports:K2G2:name
+Airports:K2G4:name
+Airports:K2G8:name
+Airports:K2G9:name
+Airports:K2N5:name
+Airports:K2N6:name
+Airports:K2P7:name
+Airports:K2W2:name
+Airports:K2W5:name
+Airports:K2W6:name
+Airports:K31E:name
+Airports:K33N:name
+Airports:K38D:name
+Airports:K38N:name
+Airports:K39N:name
+Airports:K3B0:name
+Airports:K3B3:name
+Airports:K3B4:name
+Airports:K3B5:name
+Airports:K3C8:name
+Airports:K3G3:name
+Airports:K3G5:name
+Airports:K3G6:name
+Airports:K3I4:name
+Airports:K3N5:name
+Airports:K3N6:name
+Airports:K3S2:name
+Airports:K3W3:name
+Airports:K41N:name
+Airports:K42B:name
+Airports:K44N:name
+Airports:K46N:name
+Airports:K47N:name
+Airports:K48I:name
+Airports:K48P:name
+Airports:K4B0:name
+Airports:K4B1:name
+Airports:K4B6:name
+Airports:K4B7:name
+Airports:K4B8:name
+Airports:K4B9:name
+Airports:K4G0:name
+Airports:K4G1:name
+Airports:K4G3:name
+Airports:K4G4:name
+Airports:K4G5:name
+Airports:K4G7:name
+Airports:K4G8:name
+Airports:K4N1:name
+Airports:K4N2:name
+Airports:K4V8:name
+Airports:K57B:name
+Airports:K58M:name
+Airports:K58N:name
+Airports:K5B1:name
+Airports:K5B2:name
+Airports:K5B6:name
+Airports:K5B7:name
+Airports:K5B9:name
+Airports:K5D6:name
+Airports:K5G0:name
+Airports:K5G8:name
+Airports:K5M3:name
+Airports:K5ME:name
+Airports:K60M:name
+Airports:K62D:name
+Airports:K63B:name
+Airports:K69N:name
+Airports:K6B0:name
+Airports:K6B6:name
+Airports:K6B9:name
+Airports:K6G1:name
+Airports:K6G5:name
+Airports:K6L4:name
+Airports:K6NK:name
+Airports:K6W0:name
+Airports:K6W6:name
+Airports:K70D:name
+Airports:K70N:name
+Airports:K71N:name
+Airports:K74N:name
+Airports:K75B:name
+Airports:K75D:name
+Airports:K76B:name
+Airports:K79D:name
+Airports:K7B2:name
+Airports:K7B6:name
+Airports:K7B9:name
+Airports:K7D9:name
+Airports:K7E3:name
+Airports:K7G0:name
+Airports:K7G1:name
+Airports:K7G8:name
+Airports:K7N1:name
+Airports:K7N3:name
+Airports:K7N7:name
+Airports:K7SP:name
+Airports:K7W4:name
+Airports:K80G:name
+Airports:K81B:name
+Airports:K8B0:name
+Airports:K8B1:name
+Airports:K8B2:name
+Airports:K8B5:name
+Airports:K8G2:name
+Airports:K8G6:name
+Airports:K8G8:name
+Airports:K8N8:name
+Airports:K8W2:name
+Airports:K93B:name
+Airports:K9B1:name
+Airports:K9D4:name
+Airports:K9G0:name
+Airports:K9G1:name
+Airports:K9G3:name
+Airports:K9G6:name
+Airports:K9G8:name
+Airports:K9N3:name
+Airports:KABE:name
+Airports:KACK:name
+Airports:KACY:name
+Airports:KADW:name
+Airports:KAFJ:name
+Airports:KAFN:name
+Airports:KAGC:name
+Airports:KAKR:name
+Airports:KALB:name
+Airports:KANP:name
+Airports:KAOO:name
+Airports:KAPG:name
+Airports:KAPH:name
+Airports:KAQW:name
+Airports:KART:name
+Airports:KASH:name
+Airports:KAUG:name
+Airports:KAVP:name
+Airports:KAXQ:name
+Airports:KB10:name
+Airports:KB16:name
+Airports:KB19:name
+Airports:KBAF:name
+Airports:KBCB:name
+Airports:KBDL:name
+Airports:KBDR:name
+Airports:KBED:name
+Airports:KBFD:name
+Airports:KBGM:name
+Airports:KBGR:name
+Airports:KBHB:name
+Airports:KBID:name
+Airports:KBJJ:name
+Airports:KBKL:name
+Airports:KBKT:name
+Airports:KBKW:name
+Airports:KBLF:name
+Airports:KBLM:name
+Airports:KBML:name
+Airports:KBOS:name
+Airports:KBQR:name
+Airports:KBST:name
+Airports:KBTP:name
+Airports:KBTV:name
+Airports:KBUF:name
+Airports:KBVI:name
+Airports:KBVY:name
+Airports:KBWI:name
+Airports:KBXM:name
+Airports:KC44:name
+Airports:KCAK:name
+Airports:KCBE:name
+Airports:KCDA:name
+Airports:KCDI:name
+Airports:KCDW:name
+Airports:KCEF:name
+Airports:KCGE:name
+Airports:KCGF:name
+Airports:KCGS:name
+Airports:KCHO:name
+Airports:KCJR:name
+Airports:KCKB:name
+Airports:KCKZ:name
+Airports:KCLE:name
+Airports:KCNH:name
+Airports:KCON:name
+Airports:KCQX:name
+Airports:KCRW:name
+Airports:KCXY:name
+Airports:KCZG:name
+Airports:KD38:name
+Airports:KD74:name
+Airports:KDAA:name
+Airports:KDAW:name
+Airports:KDCA:name
+Airports:KDDH:name
+Airports:KDKK:name
+Airports:KDMW:name
+Airports:KDOV:name
+Airports:KDSV:name
+Airports:KDUJ:name
+Airports:KDXR:name
+Airports:KDYL:name
+Airports:KEDG:name
+Airports:KEEN:name
+Airports:KEFK:name
+Airports:KEKN:name
+Airports:KELM:name
+Airports:KELZ:name
+Airports:KERI:name
+Airports:KESN:name
+Airports:KEVY:name
+Airports:KEWB:name
+Airports:KEWR:name
+Airports:KEZF:name
+Airports:KFAF:name
+Airports:KFCI:name
+Airports:KFDK:name
+Airports:KFIG:name
+Airports:KFIT:name
+Airports:KFKL:name
+Airports:KFME:name
+Airports:KFMH:name
+Airports:KFOK:name
+Airports:KFRG:name
+Airports:KFRR:name
+Airports:KFSO:name
+Airports:KFVX:name
+Airports:KFWN:name
+Airports:KFWQ:name
+Airports:KFYJ:name
+Airports:KFZY:name
+Airports:KGAI:name
+Airports:KGBR:name
+Airports:KGDM:name
+Airports:KGED:name
+Airports:KGFL:name
+Airports:KGHG:name
+Airports:KGKJ:name
+Airports:KGON:name
+Airports:KGTB:name
+Airports:KGVE:name
+Airports:KGVQ:name
+Airports:KHEF:name
+Airports:KHFD:name
+Airports:KHGR:name
+Airports:KHIE:name
+Airports:KHLG:name
+Airports:KHMZ:name
+Airports:KHPN:name
+Airports:KHSP:name
+Airports:KHTF:name
+Airports:KHTO:name
+Airports:KHVN:name
+Airports:KHWV:name
+Airports:KHWY:name
+Airports:KHYA:name
+Airports:KHZL:name
+Airports:KHZY:name
+Airports:KI10:name
+Airports:KI16:name
+Airports:KI18:name
+Airports:KI40:name
+Airports:KI71:name
+Airports:KIAD:name
+Airports:KIAG:name
+Airports:KIDI:name
+Airports:KIJD:name
+Airports:KILG:name
+Airports:KIPT:name
+Airports:KISP:name
+Airports:KITH:name
+Airports:KIWI:name
+Airports:KIZG:name
+Airports:KJFK:name
+Airports:KJFZ:name
+Airports:KJGG:name
+Airports:KJHW:name
+Airports:KJST:name
+Airports:KJYO:name
+Airports:KK09:name
+Airports:KK16:name
+Airports:KLBE:name
+Airports:KLCI:name
+Airports:KLDJ:name
+Airports:KLEB:name
+Airports:KLEW:name
+Airports:KLFI:name
+Airports:KLGA:name
+Airports:KLHV:name
+Airports:KLKP:name
+Airports:KLKU:name
+Airports:KLNN:name
+Airports:KLNS:name
+Airports:KLOM:name
+Airports:KLUA:name
+Airports:KLWB:name
+Airports:KLWM:name
+Airports:KLYH:name
+Airports:KLZD:name
+Airports:KM57:name
+Airports:KMAL:name
+Airports:KMD1:name
+Airports:KMDT:name
+Airports:KME5:name
+Airports:KMFV:name
+Airports:KMGJ:name
+Airports:KMGW:name
+Airports:KMHT:name
+Airports:KMIV:name
+Airports:KMJX:name
+Airports:KMMK:name
+Airports:KMMU:name
+Airports:KMPG:name
+Airports:KMPO:name
+Airports:KMPV:name
+Airports:KMQS:name
+Airports:KMRB:name
+Airports:KMSS:name
+Airports:KMSV:name
+Airports:KMTN:name
+Airports:KMTP:name
+Airports:KMUI:name
+Airports:KMVL:name
+Airports:KMVY:name
+Airports:KN03:name
+Airports:KN06:name
+Airports:KN07:name
+Airports:KN10:name
+Airports:KN12:name
+Airports:KN13:name
+Airports:KN14:name
+Airports:KN23:name
+Airports:KN27:name
+Airports:KN30:name
+Airports:KN35:name
+Airports:KN38:name
+Airports:KN40:name
+Airports:KN43:name
+Airports:KN47:name
+Airports:KN51:name
+Airports:KN53:name
+Airports:KN57:name
+Airports:KN66:name
+Airports:KN68:name
+Airports:KN69:name
+Airports:KN71:name
+Airports:KN73:name
+Airports:KN79:name
+Airports:KN81:name
+Airports:KN82:name
+Airports:KN85:name
+Airports:KN87:name
+Airports:KN89:name
+Airports:KN94:name
+Airports:KN96:name
+Airports:KNDY:name
+Airports:KNEL:name
+Airports:KNHK:name
+Airports:KNUI:name
+Airports:KNY0:name
+Airports:KNY2:name
+Airports:KNYG:name
+Airports:KOBI:name
+Airports:KOFP:name
+Airports:KOGS:name
+Airports:KOIC:name
+Airports:KOKV:name
+Airports:KOLD:name
+Airports:KOLE:name
+Airports:KOMH:name
+Airports:KOQN:name
+Airports:KOQU:name
+Airports:KORE:name
+Airports:KORH:name
+Airports:KOWD:name
+Airports:KOWK:name
+Airports:KOXB:name
+Airports:KOXC:name
+Airports:KOYM:name
+Airports:KP09:name
+Airports:KP15:name
+Airports:KP34:name
+Airports:KP91:name
+Airports:KP96:name
+Airports:KPBG:name
+Airports:KPEO:name
+Airports:KPHD:name
+Airports:KPHF:name
+Airports:KPHL:name
+Airports:KPIT:name
+Airports:KPJC:name
+Airports:KPKB:name
+Airports:KPLB:name
+Airports:KPNE:name
+Airports:KPOU:name
+Airports:KPOV:name
+Airports:KPSB:name
+Airports:KPSF:name
+Airports:KPSK:name
+Airports:KPSM:name
+Airports:KPTB:name
+Airports:KPTD:name
+Airports:KPTW:name
+Airports:KPVC:name
+Airports:KPVD:name
+Airports:KPWM:name
+Airports:KPYM:name
+Airports:KRDG:name
+Airports:KRIC:name
+Airports:KRJD:name
+Airports:KRKD:name
+Airports:KRME:name
+Airports:KRMN:name
+Airports:KROA:name
+Airports:KROC:name
+Airports:KRUT:name
+Airports:KRVL:name
+Airports:KSBY:name
+Airports:KSCH:name
+Airports:KSDC:name
+Airports:KSEG:name
+Airports:KSFM:name
+Airports:KSFZ:name
+Airports:KSHD:name
+Airports:KSLK:name
+Airports:KSMQ:name
+Airports:KSNC:name
+Airports:KSWF:name
+Airports:KSXL:name
+Airports:KSYR:name
+Airports:KTAN:name
+Airports:KTEB:name
+Airports:KTGI:name
+Airports:KTHV:name
+Airports:KTSO:name
+Airports:KTTN:name
+Airports:KUCP:name
+Airports:KUKT:name
+Airports:KUNV:name
+Airports:KUSW:name
+Airports:KUUU:name
+Airports:KVAY:name
+Airports:KVBW:name
+Airports:KVGC:name
+Airports:KVKX:name
+Airports:KVSF:name
+Airports:KVVS:name
+Airports:KW00:name
+Airports:KW05:name
+Airports:KW13:name
+Airports:KW18:name
+Airports:KW22:name
+Airports:KW24:name
+Airports:KW29:name
+Airports:KW32:name
+Airports:KW35:name
+Airports:KW41:name
+Airports:KW42:name
+Airports:KW48:name
+Airports:KW50:name
+Airports:KW75:name
+Airports:KW81:name
+Airports:KW90:name
+Airports:KW91:name
+Airports:KW94:name
+Airports:KW96:name
+Airports:KW99:name
+Airports:KWAL:name
+Airports:KWAY:name
+Airports:KWBW:name
+Airports:KWRI:name
+Airports:KWST:name
+Airports:KWVL:name
+Airports:KWWD:name
+Airports:KXLL:name
+Airports:KXSA:name
+Airports:KYNG:name
+Airports:KZER:name
+Airports:KZZV:name
+Airports:MD31:name
+Airports:ME64:name
+Airports:NJ24:name
+Airports:NY05:name
+Airports:NY20:name
+Airports:NY22:name
+Airports:NY33:name
+Airports:OI41:name
+Airports:PA88:name
+Airports:PENNSLDG:name
+Airports:UOFPENN:name
+Airports:VA57:name
+Airports:WV52:name
+Airports:WV62:name
+ARTCC boundary:ZNY-BORDER:
+ARTCC high boundary:ALLENTOWN:
+ARTCC high boundary:BINGHAMTON:
+ARTCC high boundary:ELMIRA:
+ARTCC high boundary:HARRISBURG:
+ARTCC high boundary:MCGUIRE:
+ARTCC high boundary:N90-CATSKI:
+ARTCC high boundary:N90-ISLIP:
+ARTCC high boundary:N90-JFK:
+ARTCC high boundary:N90-LaGuar:
+ARTCC high boundary:N90-LIBERT:
+ARTCC high boundary:N90-Newark:
+ARTCC high boundary:PHILADELPH:
+ARTCC high boundary:READING:
+ARTCC high boundary:WILKES-BAR:
+ARTCC low boundary:AEA_DE_D_W:
+ARTCC low boundary:AEA_NJ_D_L:
+ARTCC low boundary:AEA_NJ_D_W:
+ARTCC low boundary:AEA_NY_D_B:
+ARTCC low boundary:AEA_NY_D_E:
+ARTCC low boundary:AEA_NY_D_I:
+ARTCC low boundary:AEA_NY_D_N:
+ARTCC low boundary:AEA_NY_D_P:
+ARTCC low boundary:AEA_NY_D_W:
+ARTCC low boundary:AEA_PA_D_F:
+ARTCC low boundary:AEA_PA_D_H:
+ARTCC low boundary:AEA_PA_D_L:
+ARTCC low boundary:AEA_PA_D_N:
+ARTCC low boundary:AEA_PA_D_R:
+ARTCC low boundary:AEA_PA_D_W:
+ARTCC low boundary:ANE_CT_D_B:
+ARTCC low boundary:ANE_CT_D_N:
+ARTCC low boundary:ANE_CT_D_O:
+ARTCC low boundary:CLASSB-NY:
+ARTCC low boundary:CLASSB-PHL:
+ARTCC low boundary:CLASSC-ABE:
+ARTCC low boundary:CLASSC-ISP:
+ARTCC low boundary:CLASSD-CDW:
+ARTCC low boundary:CLASSD-FRG:
+ARTCC low boundary:CLASSD-HPN:
+ARTCC low boundary:CLASSD-MMU:
+ARTCC low boundary:CLASSD-TEB:
+ARTCC low boundary:CLASSD-TTN:
+ARTCC low boundary:DXR-CLASS-D:
+ARTCC low boundary:KUNV-D:
+High airways:B24:line
+High airways:J106:line
+High airways:J109:line
+High airways:J110:line
+High airways:J121:line
+High airways:J132:line
+High airways:J134:line
+High airways:J14:line
+High airways:J145:line
+High airways:J146:line
+High airways:J147:line
+High airways:J149:line
+High airways:J150:line
+High airways:J152:line
+High airways:J16:line
+High airways:J162:line
+High airways:J174:line
+High airways:J190:line
+High airways:J191:line
+High airways:J193:line
+High airways:J209:line
+High airways:J211:line
+High airways:J213:line
+High airways:J217:line
+High airways:J22:line
+High airways:J220:line
+High airways:J222:line
+High airways:J223:line
+High airways:J225:line
+High airways:J227:line
+High airways:J230:line
+High airways:J24:line
+High airways:J29:line
+High airways:J30:line
+High airways:J34:line
+High airways:J36:line
+High airways:J37:line
+High airways:J42:line
+High airways:J48:line
+High airways:J49:line
+High airways:J51:line
+High airways:J518:line
+High airways:J522:line
+High airways:J525:line
+High airways:J53:line
+High airways:J531:line
+High airways:J545:line
+High airways:J547:line
+High airways:J55:line
+High airways:J554:line
+High airways:J556:line
+High airways:J559:line
+High airways:J563:line
+High airways:J570:line
+High airways:J573:line
+High airways:J575:line
+High airways:J581:line
+High airways:J584:line
+High airways:J585:line
+High airways:J586:line
+High airways:J59:line
+High airways:J594:line
+High airways:J595:line
+High airways:J597:line
+High airways:J6:line
+High airways:J60:line
+High airways:J61:line
+High airways:J62:line
+High airways:J63:line
+High airways:J64:line
+High airways:J68:line
+High airways:J70:line
+High airways:J75:line
+High airways:J77:line
+High airways:J78:line
+High airways:J79:line
+High airways:J8:line
+High airways:J80:line
+High airways:J82:line
+High airways:J85:line
+High airways:J91:line
+High airways:J94:line
+High airways:J95:line
+High airways:J97:line
+High airways:L454:line
+High airways:L455:line
+High airways:L456:line
+High airways:L457:line
+High airways:L459:line
+High airways:L461:line
+High airways:N13C:line
+High airways:N15B:line
+High airways:N258B:line
+High airways:N280B:line
+High airways:N296F:line
+High airways:N306E:line
+High airways:N344C:line
+High airways:N352E:line
+High airways:N354E:line
+High airways:N386H:line
+High airways:N398C:line
+High airways:N428E:line
+High airways:N432C:line
+High airways:N468F:line
+High airways:N494E:line
+High airways:N514E:line
+High airways:N5B:line
+High airways:N7A:line
+High airways:Q406:line
+High airways:Q42:line
+High airways:Q448:line
+High airways:Q480:line
+High airways:Q501:line
+High airways:Q502:line
+High airways:Q504:line
+High airways:Q505:line
+High airways:Q802:line
+High airways:Q804:line
+High airways:Q806:line
+High airways:Q844:line
+High airways:Q901:line
+High airways:Q905:line
+High airways:Q907:line
+High airways:Q913:line
+High airways:Q921:line
+High airways:Q951:line
+High airways:R56:line
+High airways:V379:line
+High airways:VS1:line
+High airways:VS2:line
+High airways:VS3:line
+High airways:VS4:line
+High airways:VS5:line
+High airways:VS6:line
+High airways:VS7:line
+VORs:ACK:symbol
+VORs:ACO:symbol
+VORs:ACY:symbol
+VORs:ADW:symbol
+VORs:AGC:symbol
+VORs:AIR:symbol
+VORs:ALB:symbol
+VORs:AML:symbol
+VORs:AOO:symbol
+VORs:ARD:symbol
+VORs:ART:symbol
+VORs:ATR:symbol
+VORs:AUG:symbol
+VORs:BAF:symbol
+VORs:BAL:symbol
+VORs:BDR:symbol
+VORs:BFD:symbol
+VORs:BGR:symbol
+VORs:BKW:symbol
+VORs:BLF:symbol
+VORs:BML:symbol
+VORs:BOS:symbol
+VORs:BRV:symbol
+VORs:BSV:symbol
+VORs:BTV:symbol
+VORs:BUF:symbol
+VORs:BWZ:symbol
+VORs:CAM:symbol
+VORs:CCC:symbol
+VORs:CCV:symbol
+VORs:CEF:symbol
+VORs:CFB:symbol
+VORs:CIP:symbol
+VORs:CKB:symbol
+VORs:CMK:symbol
+VORs:COL:symbol
+VORs:CON:symbol
+VORs:CRI:symbol
+VORs:CSN:symbol
+VORs:CTR:symbol
+VORs:CTW:symbol
+VORs:CXR:symbol
+VORs:CYN:symbol
+VORs:DCA:symbol
+VORs:DKK:symbol
+VORs:DNY:symbol
+VORs:DOV:symbol
+VORs:DPK:symbol
+VORs:DQO:symbol
+VORs:EEN:symbol
+VORs:EKN:symbol
+VORs:ELZ:symbol
+VORs:EMI:symbol
+VORs:ENE:symbol
+VORs:ENO:symbol
+VORs:ERI:symbol
+VORs:ESL:symbol
+VORs:ETG:symbol
+VORs:ETX:symbol
+VORs:EWC:symbol
+VORs:FAK:symbol
+VORs:FDK:symbol
+VORs:FJC:symbol
+VORs:FKL:symbol
+VORs:FMH:symbol
+VORs:FOK:symbol
+VORs:FQM:symbol
+VORs:GDM:symbol
+VORs:GEE:symbol
+VORs:GFL:symbol
+VORs:GGT:symbol
+VORs:GON:symbol
+VORs:GRV:symbol
+VORs:GSS:symbol
+VORs:GVE:symbol
+VORs:GXU:symbol
+VORs:HAR:symbol
+VORs:HCM:symbol
+VORs:HFD:symbol
+VORs:HGR:symbol
+VORs:HLG:symbol
+VORs:HNK:symbol
+VORs:HPW:symbol
+VORs:HTO:symbol
+VORs:HUO:symbol
+VORs:HVN:symbol
+VORs:HVQ:symbol
+VORs:HZL:symbol
+VORs:IAG:symbol
+VORs:IGN:symbol
+VORs:IHD:symbol
+VORs:ITH:symbol
+VORs:JFK:symbol
+VORs:JFN:symbol
+VORs:JHW:symbol
+VORs:JPU:symbol
+VORs:JST:symbol
+VORs:LDN:symbol
+VORs:LEB:symbol
+VORs:LFI:symbol
+VORs:LFV:symbol
+VORs:LGA:symbol
+VORs:LHY:symbol
+VORs:LNN:symbol
+VORs:LRP:symbol
+VORs:LVZ:symbol
+VORs:LWB:symbol
+VORs:LWM:symbol
+VORs:LYH:symbol
+VORs:MAD:symbol
+VORs:MGW:symbol
+VORs:MHT:symbol
+VORs:MIP:symbol
+VORs:MMJ:symbol
+VORs:MOL:symbol
+VORs:MPV:symbol
+VORs:MRB:symbol
+VORs:MSS:symbol
+VORs:MTN:symbol
+VORs:MVY:symbol
+VORs:MXE:symbol
+VORs:NEL:symbol
+VORs:NHZ:symbol
+VORs:NZW:symbol
+VORs:ODR:symbol
+VORs:OOD:symbol
+VORs:ORW:symbol
+VORs:OTT:symbol
+VORs:PLB:symbol
+VORs:PNE:symbol
+VORs:PPM:symbol
+VORs:PSB:symbol
+VORs:PSK:symbol
+VORs:PSM:symbol
+VORs:PTW:symbol
+VORs:PUT:symbol
+VORs:PVD:symbol
+VORs:PWL:symbol
+VORs:PXT:symbol
+VORs:RAV:symbol
+VORs:RBV:symbol
+VORs:REC:symbol
+VORs:RIC:symbol
+VORs:RKA:symbol
+VORs:RNL:symbol
+VORs:ROA:symbol
+VORs:ROC:symbol
+VORs:RUT:symbol
+VORs:SAX:symbol
+VORs:SBJ:symbol
+VORs:SBY:symbol
+VORs:SEG:symbol
+VORs:SEY:symbol
+VORs:SFK:symbol
+VORs:SIE:symbol
+VORs:SLK:symbol
+VORs:SLT:symbol
+VORs:STW:symbol
+VORs:SWL:symbol
+VORs:SYR:symbol
+VORs:TDT:symbol
+VORs:TEB:symbol
+VORs:THS:symbol
+VORs:TON:symbol
+VORs:UCA:symbol
+VORs:ULW:symbol
+VORs:UTR:symbol
+VORs:VCN:symbol
+VORs:VIE:symbol
+VORs:YCF:symbol
+VORs:YEE:symbol
+VORs:YMS:symbol
+VORs:YNG:symbol
+VORs:YQO:symbol
+VORs:YSO:symbol
+VORs:YTP:symbol
+VORs:YVV:symbol
+VORs:YWT:symbol
+VORs:YXU:symbol
+VORs:YYZ:symbol
+VORs:ZZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:
+WINDOWAREA:34.430947:-84.746078:47.631960:-65.107912

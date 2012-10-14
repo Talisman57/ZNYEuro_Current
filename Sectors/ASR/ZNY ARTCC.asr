@@ -1,0 +1,556 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Dave\Documents\ZNYEuro\Sectors\ZNY.sct2
+SECTORTITLE:ZNY.sct2
+ARTCC boundary:ZNY-BORDER:
+ARTCC high boundary:ALLENTOWN:
+ARTCC high boundary:BINGHAMTON:
+ARTCC high boundary:ELMIRA:
+ARTCC high boundary:HARRISBURG:
+ARTCC high boundary:MCGUIRE:
+ARTCC high boundary:N90-CATSKI:
+ARTCC high boundary:N90-ISLIP:
+ARTCC high boundary:N90-JFK:
+ARTCC high boundary:N90-LaGuar:
+ARTCC high boundary:N90-LIBERT:
+ARTCC high boundary:N90-Newark:
+ARTCC high boundary:PHILADELPH:
+ARTCC high boundary:READING:
+ARTCC high boundary:WILKES-BAR:
+Fixes:ATHOS:symbol
+Fixes:BASYE:symbol
+Fixes:BAWLL:symbol
+Fixes:BELAY:symbol
+Fixes:BESSI:symbol
+Fixes:BEUTY:symbol
+Fixes:BILEY:symbol
+Fixes:BINNS:symbol
+Fixes:BOTON:symbol
+Fixes:BOUNO:symbol
+Fixes:BRAND:symbol
+Fixes:BRIGS:symbol
+Fixes:BUNTS:symbol
+Fixes:CAMRN:symbol
+Fixes:CLIPR:symbol
+Fixes:COFAX:symbol
+Fixes:CORLE:symbol
+Fixes:CRANK:symbol
+Fixes:CYPER:symbol
+Fixes:DAVYS:symbol
+Fixes:DELRO:symbol
+Fixes:DOORE:symbol
+Fixes:DUNEE:symbol
+Fixes:DYLIN:symbol
+Fixes:ESSSO:symbol
+Fixes:EXTOL:symbol
+Fixes:FILPS:symbol
+Fixes:FLOSI:symbol
+Fixes:FUBRR:symbol
+Fixes:GARED:symbol
+Fixes:GWENY:symbol
+Fixes:HANAA:symbol
+Fixes:HARTY:symbol
+Fixes:HARVA:symbol
+Fixes:HAYED:symbol
+Fixes:HELON:symbol
+Fixes:HOGGS:symbol
+Fixes:HOLEY:symbol
+Fixes:HYPER:symbol
+Fixes:ILENE:symbol
+Fixes:JAIKE:symbol
+Fixes:JAYBO:symbol
+Fixes:JENNO:symbol
+Fixes:JIIMS:symbol
+Fixes:KARRS:symbol
+Fixes:KEYED:symbol
+Fixes:KORRY:symbol
+Fixes:LECOR:symbol
+Fixes:LEMOR:symbol
+Fixes:LENDY:symbol
+Fixes:LIZZI:symbol
+Fixes:LOLLY:symbol
+Fixes:LOUIE:symbol
+Fixes:LOVES:symbol
+Fixes:MARRC:symbol
+Fixes:MAZIE:symbol
+Fixes:MUGZY:symbol
+Fixes:MULRR:symbol
+Fixes:NELIE:symbol
+Fixes:NOBBI:symbol
+Fixes:NUGGY:symbol
+Fixes:OWENZ:symbol
+Fixes:PANZE:symbol
+Fixes:PARCH:symbol
+Fixes:PEEDS:symbol
+Fixes:PENNS:symbol
+Fixes:PETER:symbol
+Fixes:PONEE:symbol
+Fixes:PROVI:symbol
+Fixes:PRTZL:symbol
+Fixes:RACKI:symbol
+Fixes:RADDS:symbol
+Fixes:RAGER:symbol
+Fixes:REGLE:symbol
+Fixes:RICED:symbol
+Fixes:RIDGY:symbol
+Fixes:ROBER:symbol
+Fixes:SARDI:symbol
+Fixes:SHILO:symbol
+Fixes:SKILS:symbol
+Fixes:SKIPY:symbol
+Fixes:SOMTO:symbol
+Fixes:SOUND:symbol
+Fixes:SPUDS:symbol
+Fixes:STEFE:symbol
+Fixes:SWEET:symbol
+Fixes:TALCO:symbol
+Fixes:TRAIT:symbol
+Fixes:TRESA:symbol
+Fixes:TRISH:symbol
+Fixes:TRUIZ:symbol
+Fixes:VALRE:symbol
+Fixes:VINNY:symbol
+Fixes:WACKI:symbol
+Fixes:WANDI:symbol
+Fixes:WESTO:symbol
+Fixes:WIPOR:name
+Fixes:WIPOR:symbol
+Fixes:ZAHNN:symbol
+Fixes:ZIGGI:symbol
+High airways:J132:line
+High airways:J132:name
+High airways:J174:line
+High airways:J174:name
+High airways:J209:line
+High airways:J209:name
+High airways:J220:line
+High airways:J220:name
+High airways:J225:line
+High airways:J225:name
+High airways:J36:line
+High airways:J36:name
+High airways:J48:line
+High airways:J48:name
+High airways:J6:line
+High airways:J6:name
+High airways:J60:line
+High airways:J60:name
+High airways:J64:line
+High airways:J64:name
+High airways:J75:line
+High airways:J75:name
+High airways:J80:line
+High airways:J80:name
+High airways:J95:line
+High airways:J95:name
+High airways:Q42:line
+High airways:Q42:name
+Low airways:V312:line
+Low airways:V489:line
+Sids:+ McGuire (R-5001/5002):
+Sids:+ R-5206 West Point:
+Sids:+ R-5801:
+Sids:+ R-5802 KMUI:
+Sids:+ R-5803:
+Sids:Restricted Airspace:
+Stars:+ BOJID1:
+Stars:+ CAMRN4:
+Stars:+ CLIPR1:
+Stars:+ DYLIN4:
+Stars:+ FLOSI2:
+Stars:+ FQM3 (Williamsport):
+Stars:+ HAARP2:
+Stars:+ HYPER3:
+Stars:+ IGN9 (Kingston):
+Stars:+ KORRY3:
+Stars:+ LENDY6:
+Stars:+ MIP4 (Milton):
+Stars:+ PAATS1:
+Stars:+ PARCH1:
+Stars:+ PRTZL3:
+Stars:+ SPUDS2:
+Stars:+ VCN8 (Cedar Lake):
+VORs:ACK:name
+VORs:ACK:symbol
+VORs:ACO:name
+VORs:ACO:symbol
+VORs:ACY:name
+VORs:ACY:symbol
+VORs:ADW:name
+VORs:ADW:symbol
+VORs:AGC:name
+VORs:AGC:symbol
+VORs:AIR:name
+VORs:AIR:symbol
+VORs:ALB:name
+VORs:ALB:symbol
+VORs:AML:name
+VORs:AML:symbol
+VORs:AOO:name
+VORs:AOO:symbol
+VORs:ARD:name
+VORs:ARD:symbol
+VORs:ART:name
+VORs:ART:symbol
+VORs:ATR:name
+VORs:ATR:symbol
+VORs:AUG:name
+VORs:AUG:symbol
+VORs:BAF:name
+VORs:BAF:symbol
+VORs:BAL:name
+VORs:BAL:symbol
+VORs:BDR:name
+VORs:BDR:symbol
+VORs:BFD:name
+VORs:BFD:symbol
+VORs:BGR:name
+VORs:BGR:symbol
+VORs:BKW:name
+VORs:BKW:symbol
+VORs:BLF:name
+VORs:BLF:symbol
+VORs:BML:name
+VORs:BML:symbol
+VORs:BOS:name
+VORs:BOS:symbol
+VORs:BRV:name
+VORs:BRV:symbol
+VORs:BSV:name
+VORs:BSV:symbol
+VORs:BTV:name
+VORs:BTV:symbol
+VORs:BUF:name
+VORs:BUF:symbol
+VORs:BWZ:name
+VORs:BWZ:symbol
+VORs:CAM:name
+VORs:CAM:symbol
+VORs:CCC:name
+VORs:CCC:symbol
+VORs:CCV:name
+VORs:CCV:symbol
+VORs:CEF:name
+VORs:CEF:symbol
+VORs:CFB:name
+VORs:CFB:symbol
+VORs:CIP:name
+VORs:CIP:symbol
+VORs:CKB:name
+VORs:CKB:symbol
+VORs:CMK:name
+VORs:CMK:symbol
+VORs:COL:name
+VORs:COL:symbol
+VORs:CON:name
+VORs:CON:symbol
+VORs:CRI:name
+VORs:CRI:symbol
+VORs:CSN:name
+VORs:CSN:symbol
+VORs:CTR:name
+VORs:CTR:symbol
+VORs:CTW:name
+VORs:CTW:symbol
+VORs:CXR:name
+VORs:CXR:symbol
+VORs:CYN:name
+VORs:CYN:symbol
+VORs:DCA:name
+VORs:DCA:symbol
+VORs:DKK:name
+VORs:DKK:symbol
+VORs:DNY:name
+VORs:DNY:symbol
+VORs:DOV:name
+VORs:DOV:symbol
+VORs:DPK:name
+VORs:DPK:symbol
+VORs:DQO:name
+VORs:DQO:symbol
+VORs:EEN:name
+VORs:EEN:symbol
+VORs:EKN:name
+VORs:EKN:symbol
+VORs:ELZ:name
+VORs:ELZ:symbol
+VORs:EMI:name
+VORs:EMI:symbol
+VORs:ENE:name
+VORs:ENE:symbol
+VORs:ENO:name
+VORs:ENO:symbol
+VORs:ERI:name
+VORs:ERI:symbol
+VORs:ESL:name
+VORs:ESL:symbol
+VORs:ETG:name
+VORs:ETG:symbol
+VORs:ETX:name
+VORs:ETX:symbol
+VORs:EWC:name
+VORs:EWC:symbol
+VORs:FAK:name
+VORs:FAK:symbol
+VORs:FDK:name
+VORs:FDK:symbol
+VORs:FJC:name
+VORs:FJC:symbol
+VORs:FKL:name
+VORs:FKL:symbol
+VORs:FMH:name
+VORs:FMH:symbol
+VORs:FOK:name
+VORs:FOK:symbol
+VORs:FQM:name
+VORs:FQM:symbol
+VORs:GDM:name
+VORs:GDM:symbol
+VORs:GEE:name
+VORs:GEE:symbol
+VORs:GFL:name
+VORs:GFL:symbol
+VORs:GGT:name
+VORs:GGT:symbol
+VORs:GON:name
+VORs:GON:symbol
+VORs:GRV:name
+VORs:GRV:symbol
+VORs:GSS:name
+VORs:GSS:symbol
+VORs:GVE:name
+VORs:GVE:symbol
+VORs:GXU:name
+VORs:GXU:symbol
+VORs:HAR:name
+VORs:HAR:symbol
+VORs:HCM:name
+VORs:HCM:symbol
+VORs:HFD:name
+VORs:HFD:symbol
+VORs:HGR:name
+VORs:HGR:symbol
+VORs:HLG:name
+VORs:HLG:symbol
+VORs:HNK:name
+VORs:HNK:symbol
+VORs:HPW:name
+VORs:HPW:symbol
+VORs:HTO:name
+VORs:HTO:symbol
+VORs:HUO:name
+VORs:HUO:symbol
+VORs:HVN:name
+VORs:HVN:symbol
+VORs:HVQ:name
+VORs:HVQ:symbol
+VORs:HZL:name
+VORs:HZL:symbol
+VORs:IAG:name
+VORs:IAG:symbol
+VORs:IGN:name
+VORs:IGN:symbol
+VORs:IHD:name
+VORs:IHD:symbol
+VORs:ITH:name
+VORs:ITH:symbol
+VORs:JFK:name
+VORs:JFK:symbol
+VORs:JFN:name
+VORs:JFN:symbol
+VORs:JHW:name
+VORs:JHW:symbol
+VORs:JPU:name
+VORs:JPU:symbol
+VORs:JST:name
+VORs:JST:symbol
+VORs:LDN:name
+VORs:LDN:symbol
+VORs:LEB:name
+VORs:LEB:symbol
+VORs:LFI:name
+VORs:LFI:symbol
+VORs:LFV:name
+VORs:LFV:symbol
+VORs:LGA:name
+VORs:LGA:symbol
+VORs:LHY:name
+VORs:LHY:symbol
+VORs:LNN:name
+VORs:LNN:symbol
+VORs:LRP:name
+VORs:LRP:symbol
+VORs:LVZ:name
+VORs:LVZ:symbol
+VORs:LWB:name
+VORs:LWB:symbol
+VORs:LWM:name
+VORs:LWM:symbol
+VORs:LYH:name
+VORs:LYH:symbol
+VORs:MAD:name
+VORs:MAD:symbol
+VORs:MGW:name
+VORs:MGW:symbol
+VORs:MHT:name
+VORs:MHT:symbol
+VORs:MIP:name
+VORs:MIP:symbol
+VORs:MMJ:name
+VORs:MMJ:symbol
+VORs:MOL:name
+VORs:MOL:symbol
+VORs:MPV:name
+VORs:MPV:symbol
+VORs:MRB:name
+VORs:MRB:symbol
+VORs:MSS:name
+VORs:MSS:symbol
+VORs:MTN:name
+VORs:MTN:symbol
+VORs:MVY:name
+VORs:MVY:symbol
+VORs:MXE:name
+VORs:MXE:symbol
+VORs:NEL:name
+VORs:NEL:symbol
+VORs:NHZ:name
+VORs:NHZ:symbol
+VORs:NZW:name
+VORs:NZW:symbol
+VORs:ODR:name
+VORs:ODR:symbol
+VORs:OOD:name
+VORs:OOD:symbol
+VORs:ORW:name
+VORs:ORW:symbol
+VORs:OTT:name
+VORs:OTT:symbol
+VORs:PLB:name
+VORs:PLB:symbol
+VORs:PNE:name
+VORs:PNE:symbol
+VORs:PPM:name
+VORs:PPM:symbol
+VORs:PSB:name
+VORs:PSB:symbol
+VORs:PSK:name
+VORs:PSK:symbol
+VORs:PSM:name
+VORs:PSM:symbol
+VORs:PTW:name
+VORs:PTW:symbol
+VORs:PUT:name
+VORs:PUT:symbol
+VORs:PVD:name
+VORs:PVD:symbol
+VORs:PWL:name
+VORs:PWL:symbol
+VORs:PXT:name
+VORs:PXT:symbol
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:RBV:name
+VORs:RBV:symbol
+VORs:REC:name
+VORs:REC:symbol
+VORs:RIC:name
+VORs:RIC:symbol
+VORs:RKA:name
+VORs:RKA:symbol
+VORs:RNL:name
+VORs:RNL:symbol
+VORs:ROA:name
+VORs:ROA:symbol
+VORs:ROC:name
+VORs:ROC:symbol
+VORs:RUT:name
+VORs:RUT:symbol
+VORs:SAX:name
+VORs:SAX:symbol
+VORs:SBJ:name
+VORs:SBJ:symbol
+VORs:SBY:name
+VORs:SBY:symbol
+VORs:SEG:name
+VORs:SEG:symbol
+VORs:SEY:name
+VORs:SEY:symbol
+VORs:SFK:name
+VORs:SFK:symbol
+VORs:SIE:name
+VORs:SIE:symbol
+VORs:SLK:name
+VORs:SLK:symbol
+VORs:SLT:name
+VORs:SLT:symbol
+VORs:STW:name
+VORs:STW:symbol
+VORs:SWL:name
+VORs:SWL:symbol
+VORs:SYR:name
+VORs:SYR:symbol
+VORs:TDT:name
+VORs:TDT:symbol
+VORs:TEB:name
+VORs:TEB:symbol
+VORs:THS:name
+VORs:THS:symbol
+VORs:TON:name
+VORs:TON:symbol
+VORs:UCA:name
+VORs:UCA:symbol
+VORs:ULW:name
+VORs:ULW:symbol
+VORs:UTR:name
+VORs:UTR:symbol
+VORs:VCN:name
+VORs:VCN:symbol
+VORs:VIE:name
+VORs:VIE:symbol
+VORs:YCF:name
+VORs:YCF:symbol
+VORs:YEE:name
+VORs:YEE:symbol
+VORs:YMS:name
+VORs:YMS:symbol
+VORs:YNG:name
+VORs:YNG:symbol
+VORs:YQO:name
+VORs:YQO:symbol
+VORs:YSO:name
+VORs:YSO:symbol
+VORs:YTP:name
+VORs:YTP:symbol
+VORs:YVV:name
+VORs:YVV:symbol
+VORs:YWT:name
+VORs:YWT:symbol
+VORs:YXU:name
+VORs:YXU:symbol
+VORs:YYZ:name
+VORs:YYZ:symbol
+VORs:ZZV:name
+VORs:ZZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:7
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:DSR
+WINDOWAREA:37.083871:-78.435516:44.368962:-70.304583
+PLUGIN:Final Count Down:FCDSHOW:FALSE
+PLUGIN:Final Count Down:FCDXPOS:100
+PLUGIN:Final Count Down:FCDYPOS:100
+PLUGIN:UK Assistant:ANTIALIAS:1
+PLUGIN:UK Assistant:MAXTRAIL:6
+PLUGIN:UK Assistant:TRAILCOLOUR:24158
+PLUGIN:UK Assistant:TRAILSHOW:1
+PLUGIN:UK Assistant:TRAILTYPE:2

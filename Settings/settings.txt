@@ -1,0 +1,383 @@
+m_ShowControllers:1
+m_ShowAircraft:1
+m_ShowTextMessages:0
+m_ShowTitle:1
+m_ShowTitleFileName:1
+m_ShowTitleController:1
+m_ShowTitlePrimaryFreq:1
+m_ShowTitleAtisFreq:1
+m_ShowTitleClock:1
+m_ShowTitleLeader:1
+m_ShowTitleFilter:1
+m_ShowTitleTrans:1
+m_ShowVoiceRoomUsers:1
+m_ShowFSSControllers:1
+m_ShowCTRControllers:1
+m_ShowAPPControllers:1
+m_ShowTWRControllers:1
+m_ShowGNDControllers:1
+m_ShowATISControllers:1
+m_ShowOBSControllers:1
+m_ShowUnidentifiedControllers:1
+m_ShowFreqUsers:1
+m_ShowAtisUsers:1
+m_ShowArrivalPlanes:1
+m_ShowDeparturePlanes:0
+m_ShowOverflightPlanes:1
+SET_ShowTrackingPlanes:1
+m_METARList:1
+m_ShowTitleMetar:1
+m_ConnectSELtoSIL:0
+m_ConnectDEPtoSEL:0
+m_ConnectSILtoTOP:0
+m_ScreenNumber:0
+m_ScreenPosition:0
+m_ScreenMaximized:1
+m_ShowTitleSelectedAc:0
+m_PlanesListX:-13
+m_PlanesListY:23
+m_MetarListX:1228
+m_MetarListY:-1
+m_VoiceListX:-1000
+m_VoiceListY:-1000
+m_ControllerListX:1490
+m_ControllerListY:20
+VOICE
+AG:PHL_SA_APP:126.600:voice.nyartcc.org:zny_6s
+AG:PHL_NA_APP:128.400:voice.nyartcc.org:zny_6n
+AG:KPHL_ATIS:133.400:voice.nyartcc.org:kphl_atis
+AG:PHL_N_DEP:124.350:voice.nyartcc.org:ZNY_6E
+AG:NY_KND_CTR:125.320:voice.nyartcc.org:zny_b4
+AG:NY_JBC_FSS:125.920:voice.nyartcc.org:zny_f1
+AG:JFK_DEL:135.050:voice.nyartcc.org:zny_2d
+AG:JFK_GND:121.900:voice.nyartcc.org:zny_2c
+AG:EWR DEL:118.850:rw.liveatc.net:zny_4d
+AG:KLGA ATIS:127.050:nyartcc.org:klga_atis
+AG:NY_HRP_APP:120.800:voice.nyartcc.org:zny_1v
+AG:EWR GND:121.800:voice.nyartcc.org:zny_4c
+AG:LGA DEL:135.200:voice.nyartcc.org:zny_1c
+AG:PHL DEL:118.800:voice.nyartcc.org:ZNY_6G
+AG:NY_LFI_APP:134.950:voice.nyartcc.org:zny_1f
+AG:NY_EMP_APP:127.300:voice.nyartcc.org:zny_1d
+AG:LGA TWR:118.700:voice.nyartcc.org:zny_1a
+AG:NY_CAM_APP:127.400:voice.nyartcc.org:zny_2g
+AG:EWR TWR:118.300:rw.liveatc.net:zny_4b
+AG:NY_BDA_CTR:128.500:voice.nyartcc.org:zny_f4
+AG:TXKF_ATIS:128.500:voice.nyartcc.org:txkf_atis
+AG:KJFK_ATIS:128.720:voice.nyartcc.org:kjfk_atis
+AG:NY_NWK_DEP:119.200:voice.nyartcc.org:zny_4n
+AG:NY_ARD_APP:128.550:voice.nyartcc.org:zny_4p
+AG:PHL GND:121.650:voice.nyartcc.org:ZNY_6D
+AG:NY_ARD_CTR:134.600:voice.nyartcc.org:zny_b3
+AG:KEWR_ATIS:134.820:voice.nyartcc.org:kewr_atis
+AG:PHL_TWR:118.500:voice.nyartcc.org:zny_6a
+AG:PHL_S_DEP:119.750:voice.nyartcc.org:ZNY_6V
+AG:NY_SOA_FSS:122.320:voice.nyartcc.org:zny_f5
+AG:PHL_NH_DEP:126.070:voice.nyartcc.org:ZNY_6H
+AG:PHL_SH_DEP:125.120:voice.nyartcc.org:zny_6j
+AG:TTN_TWR:120.700:voice.nyartcc.org:zny_6r
+AG:PNE_TWR:126.900:voice.nyartcc.org:zny_6i
+AG:ZNY_2C:199.998:voice.nyartcc.org:zny_2c
+AG:BGM_L_APP:118.600:rw.liveatc.net:zny_ha
+AG:KBGM_APP:128.150:rw.liveatc.net:kbgm_atis
+AG:JFK_TWR:119.100:voice.nyartcc.org:zny_2b
+AG:NY_CCC_APP:118.000:voice.nyartcc.org:zny_3e
+AG:KILG_ATIS:123.950:voice.nyartcc.org:kilg_atis
+AG:KISP_ATIS:128.450:voice.nyartcc.org:kisp_atis
+AG:KFRG_ATIS:126.650:voice.nyartcc.org:kfrg_atis
+AG:ABE_TWR:120.500:voice.nyartcc.org:zny_gd
+AG:zny_2j:199.998:rw.liveatc.net:zny_2j
+AG:KABE_ATIS:126.970:voice.nyartcc.org:kabe_atis
+AG:ZNY_GA:199.998:voice.nyartcc.org:zny_ga
+AG:zny_6n:199.998:rw.liveatc.net:zny_6n
+AG:RDG_TWR:119.900:voice.nyartcc.org:zny_mb
+AG:ZNY_4N:199.998:rw.liveatc.net:zny_4n
+AG:zny_4c:199.998:rw.liveatc.net:zny_4c
+AG:ZNY_2B:199.998:nyartcc.org:zny_2b
+AG:SWF_TWR:121.000:voice.nyartcc.org:zny_5a
+AG:KSWF_ATIS:124.570:voice.nyartcc.org:kswf_atis
+AG:ELM_TWR:121.100:rw.liveatc.net:zny_jc
+AG:KELM_ATIS:125.470:rw.liveatc.net:kelm_atis
+AG:zny_ja:199.998:rw.liveatc.net:zny_ja
+AG:ISP TWR:119.300:voice.nyartcc.org:zny_3c
+AG:NY_RBR_APP:125.700:voice.nyartcc.org:zny_2K
+AG:JFK_TWR:119.100:rw.liveatc.net:zny_2b
+AG:KJFK_ATIS:128.720:rw.liveatc.net:kjfk_atis
+AG:ZNY_2G:199.998:rw.liveatc.net:zny_2g
+AG:FRG_TWR:118.800:voice.nyartcc.org:zny_2m
+AG:ABE_S_APP:124.450:voice.nyartcc.org:zny_ga
+AG:ZNY_B4:199.998:nyartcc.org:zny_b4
+AG:ABE_GND:121.900:voice.nyartcc.org:zny_ge
+AG:ABE_N_APP:119.650:voice.nyartcc.org:zny_gb
+AG:NY_KEN_DEP:135.900:voice.nyartcc.org:zny_2j
+AG:ITH_TWR:119.600:rw.liveatc.net:zny_jc
+AG:ELM_S_APP:119.450:voice.nyartcc.org:zny_ja
+AG:LPPT_GND:121.750:rw.liveatc.net:lppt_gnd
+AG:LPPT_TWR:118.100:rw.liveatc.net:lppt_twr
+AG:LPPT_DEL:118.950:rw.liveatc.net:lppt_del
+AG:LPPT_APP:119.100:voice.portugal-vacc.org:lppt_app
+AG:NY_KFI_APP:132.400:rw.liveatc.net:zny_2a
+END
+PROFILE
+PROFILE:NY_KAN_OBS:293:6
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:NY_KND_CTR:201:6
+ATIS2:NY Center covering all of NY including KPHL
+ATIS3:
+ATIS4:
+PROFILE:NY_KAN_INS:293:6
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:ZNY_KK_INS:293:6
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:NY_LFI_APP:98:5
+ATIS2:LGA Final sector
+ATIS3:
+ATIS4:
+PROFILE:KK_SUP:300:6
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:NY_HRP_APP:98:5
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:CZWG_E_CTR:439:6
+ATIS2:Ontario Area only 80nm E of CYWG
+ATIS3:
+ATIS4:
+PROFILE:NY_JBC_FSS:1200:1
+ATIS2:Covering Bermuda and New York Oceanic
+ATIS3:Position reports required EAST of 060W
+ATIS4:feedback at nyartcc.org/feedback2
+PROFILE:NY_TST_CTR:201:6
+ATIS2:TESTING NEW YORK SECTORFILES DO NOT CALL ME
+ATIS3:
+ATIS4:
+PROFILE:ZNY_AB_OBS:150:5
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:PHL_NA_APP:150:5
+ATIS2:Serving Philly and satalites.
+ATIS3:ATIS on 133.400
+ATIS4:Feedback at ww.nyartcc.org/feedback2
+PROFILE:ZNY_GB_OBS:200:5
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:JFK_TWR:51:4
+ATIS2:Serving Kennedy Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:NY_KEN_DEP:150:5
+ATIS2:Serving JFK Departure ONLY.
+ATIS3:ATIS on 128.720
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:NY_CAM_APP:150:5
+ATIS2:Approach JFK, EWR and Satellites
+ATIS3:Departure JFK, EWR and Satellites
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:ZNY_DO_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:JFK_GND:20:3
+ATIS2:Serving Kennedy Ground
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's My Driving? Feedback at www.nyartcc.org/feedback2
+PROFILE:JFK_DEL:20:2
+ATIS2:Serving Kennedy Ground
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's My Driving? Feedback at www.nyartcc.org/feedback2
+PROFILE:ABE_TWR:50:4
+ATIS2:Serving Allentown Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:RDG_TWR:50:4
+ATIS2:Serving Reading Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:SWF_TWR:50:4
+ATIS2:Serving Stewart Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:ELM_TWR:50:4
+ATIS2:Serving Elmira Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:ISP_TWR:50:4
+ATIS2:Serving Islip Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:FRG_TWR:50:4
+ATIS2:Serving Farmingdale Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:ABE_S_APP:150:5
+ATIS2:Serving Allentown Stuff
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:ABE_N_APP:150:5
+ATIS2:Serving Allentown Stuff
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:ELM_S_APP:150:5
+ATIS2:Serving Elmira/Ithaca Approach
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's my driving? Send feedback at www.nyartcc.org/feedback2
+PROFILE:NY_CCC_APP:150:5
+ATIS2:Approach ISP
+ATIS3:Departure ISP
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:NY_ARD_APP:150:5
+ATIS2:Approach EWR and JFK
+ATIS3:Departure EWR and JFK
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:NY_RBR_APP:150:5
+ATIS2:Approach FRG JFK ISP
+ATIS3:Departure FRG JFK ISP
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:LPPT_DO_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:LIS_DO_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:LPPT_APP:150:5
+ATIS2:
+ATIS3:
+ATIS4:
+PROFILE:NY_KFI_APP:150:5
+ATIS2:Final JFK
+ATIS3:And Only JFK
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+PROFILE:EWR_GND:20:3
+ATIS2:Serving Newark Ground
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's My Driving? Feedback at www.nyartcc.org/feedback2
+PROFILE:EWR_TWR:50:4
+ATIS2:Serving Newark Tower
+ATIS3:Need help? Look at vatsim.net/prc
+ATIS4:How's My Driving? Feedback at www.nyartcc.org/feedback2
+PROFILE:NY_NWK_DEP:150:5
+ATIS2:Serving EWR Departure as well as JFK Departure
+ATIS3:ATIS on 134.820
+ATIS4:Send feedback at www.nyartcc.org/feedback2
+END
+SEL
+m_Visible:1
+m_X:0
+m_Y:192
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:2
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:0:7:1::::0
+m_Column:RUNW:4:1:47:19:19:1::::1
+m_Column:WTC:3:1:10:0:0:1::::1
+m_Column:ATYP:4:1:16:0:0:1::::1
+m_Column:PSSR:5:1:2:0:0:0::::1
+m_Column:AFL:4:1:4:16:1:0::::1
+m_Column:CFL:4:1:20:11:0:0::::1
+m_Column:DEP:4:1:61:0:0:1::::1
+m_Column:SID:7:0:56:17:17:0::::1
+m_Column:DES:4:1:17:0:0:1::::1
+m_Column:ETA:5:1:54:0:0:0::::1
+m_Column:ALT:4:1:22:30:30:1::::1
+m_Column:FR:2:1:63:0:0:0::::1
+m_Column:™:1:1:62:0:0:0::::1
+m_Column:COPX:5:0:51:22:22:0::::1
+m_Column:ETX:5:1:53:0:0:0::::1
+m_Column:XFL:4:1:52:24:24:0::::1
+m_Column:ASSR:5:1:60:31:31:0::::1
+m_Column:SID:7:0:56:17:0:1::::0
+m_Column:STAR:12:0:55:18:18:1::::1
+m_Column:SI:3:1:64:20:0:1::::1
+m_Column:ETA:5:1:54:0:0:1::::0
+END
+DEP
+m_Visible:1
+m_X:0
+m_Y:383
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:-18
+m_HeaderOnly:0
+m_Column:DSQ:3:1:57:0:0:0::::1
+m_Column:C/S:7:0:9:0:7:1::::0
+m_Column:WTC:3:1:10:0:0:1::::1
+m_Column:ATYP:4:1:16:0:0:1::::1
+m_Column:DEP:4:1:61:0:0:1::::1
+m_Column:RUNW:4:1:47:19:19:1::::1
+m_Column:COPN:5:0:48:21:21:0::::1
+m_Column:CFL:4:1:20:11:0:0::::1
+m_Column:E:1:1:58:27:0:1::::1
+m_Column:COPX:5:0:51:22:22:0::::1
+m_Column:XFL:4:1:52:24:24:0::::1
+m_Column:DES:4:1:17:0:0:1::::1
+m_Column:ALT:4:1:22:30:30:1::::1
+m_Column:SID:7:0:56:17:17:1::::1
+m_Column:SQK:5:1:60:31:31:1::::1
+m_Column:FR:2:1:63:0:0:0::::1
+m_Column:™:1:1:62:0:0:0::::1
+m_Column:STS:4:1:59:28:28:1::::1
+m_Column:CD:2:1:58:27:0:1::::0
+END
+ARR
+m_Visible:1
+m_X:0
+m_Y:754
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:8:0:1::::2015312963
+m_Column:RWY:3:1:47:19:0:1::::0
+m_Column:ACFT:6:1:16:0:0:1::::0
+m_Column:DEST:4:1:17:0:0:1::::0
+END
+FP
+m_Visible:0
+m_X:0
+m_Y:500
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:0:0:1::::2015312963
+m_Column:ADEP:5:1:61:0:0:1::::2015312963
+m_Column:ADES:5:1:17:7:0:1::::2015312963
+m_Column:STS:6:1:2:34:34:1::::2015312963
+END
+PLUGINS
+Holding List:ACList/Holding list/m_Visible:0
+Holding List:ACList/Holding list/m_X:0
+Holding List:ACList/Holding list/m_Y:487
+Holding List:ACList/Holding list/m_LineNumber:0
+Holding List:ACList/Holding list/m_Resizable:1
+Holding List:ACList/Holding list/m_OrderingColumn:1
+Holding List:ACList/Holding list/m_Column_0:C/S:6:0:9:0:0:1:::
+Holding List:ACList/Holding list/m_Column_1:H/P:6:0:1:1:0:1:Holding List:Holding List:
+Holding List:ACList/Holding list/m_Column_2:CFL:4:1:20:11:0:0:::
+Holding List:ACList/Holding list/m_Column_3:TIM:6:1:2:0:0:1:Holding List::
+Holding List:ACList/Holding list/m_Column_4:REM:6:1:3:2:0:1:Holding List:Holding List:
+Holding List:ACList/Holding list/m_Column_5:DEST:4:1:17:0:0:1:::
+euroNAT:ShowEastbound:true
+euroNAT:ShowWestbound:true
+euroNAT:ShowLetters:true
+euroNAT:ShowLines:true
+euroNAT:ShowDottedLines:true
+euroNAT:ShowShortNames:false
+euroNAT:AntialiasedLines:false
+euroNAT:ConcordeTracks:false
+euroNAT:EastboundColor:9737331
+euroNAT:WestboundColor:7574643
+euroNAT:ConcordeColor:6579400

@@ -1,0 +1,52 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Dave\Documents\ZNYEuro\Sectors\ZNY.sct2
+SECTORTITLE:ZNY.sct2
+ARTCC boundary:ZNY-BORDER:
+ARTCC low boundary:CLASSB-NY:
+Geo:KBDR:
+Geo:KFOK:
+Geo:KFRG:
+Geo:KHPN:
+Geo:KHVN:
+Geo:KISP:
+Geo:KLGA:
+Stars:+ Coastline:
+VORs:BDR:name
+VORs:BDR:symbol
+VORs:BWZ:name
+VORs:BWZ:symbol
+VORs:CCC:name
+VORs:CCC:symbol
+VORs:CMK:name
+VORs:CMK:symbol
+VORs:DPK:name
+VORs:DPK:symbol
+VORs:FOK:name
+VORs:FOK:symbol
+VORs:HVN:name
+VORs:HVN:symbol
+VORs:JFK:name
+VORs:JFK:symbol
+VORs:LGA:name
+VORs:LGA:symbol
+VORs:RBV:name
+VORs:RBV:symbol
+VORs:SAX:name
+VORs:SAX:symbol
+VORs:TEB:name
+VORs:TEB:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:ACSiT Custom
+WINDOWAREA:40.337386:-74.041224:41.636420:-72.591364

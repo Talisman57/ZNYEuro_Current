@@ -1,0 +1,620 @@
+m_PlaySounds:1
+m_AssumeSlowAcAsStandby:0
+m_ShowAirspaceLines:1
+m_ShowRouteFixName:1
+m_ShowRouteETA:1
+m_ShowCalculatedHeading:0
+m_ShowSimulatedData:0
+m_TransitionAltitude:10000
+m_AllowConcernedACTagDown:0
+m_CenterlineDme:0.0
+m_CenterlineLength:15.0
+m_CenterlineTickDme:5.0
+m_CenterlineTickInterval:1.0
+m_CenterlineTickLength:0.5
+m_CenterlineMarkerLength:1.0
+m_CenterlineMarkerInterval:5.0
+m_CenterlineVectorDme:10.0
+m_CenterlineVectorLength:3.0
+m_CenterlineVectorAngle:30.0
+m_CenterlineVectorBase:5.0
+m_STCA_LowShow:0
+m_STCA_LowVertical:600
+m_STCA_LowHorizontal:2.1
+m_STCA_LowBottom:2000
+m_STCA_HighShow:0
+m_STCA_HighVertical:600
+m_STCA_HighHorizontal:4.1
+m_STCA_HighBottom:10000
+m_ExtendedCenterlinActiveArr:1
+m_UseHoveringTagForKeys:1
+m_AutoMessageForTextAircraft:0
+m_ShowRouteWhenAccepting:1
+m_AllowAssumedACTagDown:0
+m_InhibitAutoPushOnHandoff:1
+m_RandomSquawks:1
+m_VFRSquawk:1200
+m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
+m_AutoLoadMetarForActiveAirports:1
+m_LockShowRouteWhenAccepting:0
+m_VoiceAtisBuilderUrl:
+m_DoNotUseAcceptedColor:0
+m_DoNotUseRefusedColor:0
+SET_TransparentAcListBackground:0
+m_PutIncomingCoordinationToFirst:0
+m_AutoProxyMode:1
+m_TransparentAcListSelectedBackground:0
+m_TransparentDetailedTagBackground:1
+m_TransparentDetailedTagSelectedItemBackground:1
+m_AllowDirectBeyondCOPX:0
+m_ShowAtisLetterInMETAR:1
+m_ShowCLAMWarnings:1
+m_ShowRAMWarning:1
+m_MagneticNorthUp:1
+m_ShowAForAltitudes:0
+m_Show500ForNonVisual:1
+SET_SetActiveAptBySectors:1
+SET_CapitalizeFPAndScratch:0
+m_SET_WTC_Light:L
+SET_WTC_Medium:M
+SET_WTC_Heavy:H
+SET_WTC_A380:J
+m_RotateRouteTexts:0
+m_NeverCloseFreqChat:1
+m_KeepScratchPadAfterDirect:1
+m_HiliteASELAircraft:1
+m_EnableVoiceRecognition:0
+m_VoiceRecognitionStyle:2
+m_SModeTransponders:EFGRWQ
+m_CorrelationMode:1
+m_CorrelationDistance:100
+m_SimulateRadars:1
+m_AllowCorrelatedTAGDown:0
+m_ShowDetailedOverUntagged:0
+m_ShowRectAroundFPTrack:0
+m_ShowRectAroundASEL:0
+m_VatsimStatusURL:http://www.vatsim.net/data/status.txt
+m_OverrideWhoIsOnlineURL:0
+m_ShowVFRFlightPlanTrack:1
+m_ShowIFRFlightPlanTrack:1
+m__AutoStartFlightPlanTracks:1
+m_UnicomFrequency:122.8
+m_MessageInfoLevel:1
+m_MessageWarningLevel:2
+m_MessageErrorLevel:4
+m_PointOutLevel:4
+m_HandoffRequestLevel:0
+m_CoordinationRequestLevel:4
+m_HandoffAcceptLevel:0
+m_HandoffRefuseLevel:2
+m_CoordinationAcceptLevel:0
+m_CoordinationRefuseLevel:2
+m_ServerMessageLevel:2
+m_AtcMessageLevel:3
+m_BroadcastMessageLevel:2
+m_SupMessageLevel:4
+m_AtisMessageLevel:0
+m_PrivateMessageLevel:4
+m_FreqMessageLevel:4
+m_MericUnits:0
+m_ShowCorrelatedInFpList:0
+m_ShowUncorrelatedInFpList:1
+m_ShowVFRInFpList:1
+m_ShowIFRInFpList:1
+m_ShowConcernedInFpList:1
+m_ShowUnconcernedInFpList:0
+m_ZoomCenterUnderMouse:0
+m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
+m_CompensateMagneticVariation:0
+m_ShowControllers:1
+m_ShowAircraft:0
+m_ShowTextMessages:0
+m_ShowTitle:1
+m_ShowTitleFileName:1
+m_ShowTitleController:1
+m_ShowTitlePrimaryFreq:0
+m_ShowTitleAtisFreq:0
+m_ShowTitleClock:1
+m_ShowTitleLeader:0
+m_ShowTitleFilter:0
+m_ShowTitleTrans:0
+m_ShowVoiceRoomUsers:0
+m_ShowFSSControllers:1
+m_ShowCTRControllers:1
+m_ShowAPPControllers:1
+m_ShowTWRControllers:1
+m_ShowGNDControllers:1
+m_ShowATISControllers:1
+m_ShowOBSControllers:1
+m_ShowUnidentifiedControllers:1
+m_ShowFreqUsers:1
+m_ShowAtisUsers:1
+m_ShowArrivalPlanes:1
+m_ShowDeparturePlanes:1
+m_ShowOverflightPlanes:1
+SET_ShowTrackingPlanes:1
+m_METARList:0
+m_ShowTitleMetar:1
+m_ConnectSELtoSIL:1
+m_ConnectDEPtoSEL:1
+m_ConnectSILtoTOP:0
+m_ScreenNumber:0
+m_ScreenPosition:0
+m_ScreenMaximized:0
+m_ShowTitleSelectedAc:1
+m_PlanesListX:61
+m_PlanesListY:179
+m_MetarListX:1307
+m_MetarListY:49
+m_VoiceListX:-1000
+m_VoiceListY:-1000
+m_ControllerListX:1555
+m_ControllerListY:102
+SYMBOLOGY
+SYMBOLSIZE
+Airports:symbol:5987163:1.0:0:0:7
+Airports:name:5987163:3.0:0:0:1
+Low airways:line:8224125:3.5:1:0:7
+Low airways:name:8224125:3.5:0:0:8
+High airways:line:8224125:3.5:1:0:7
+High airways:name:8224125:3.5:0:0:8
+Fixes:symbol:5987163:1.0:0:0:7
+Fixes:name:5987163:3.0:0:0:1
+Sids:line:6579300:3.0:1:0:7
+Stars:line:6579300:3.0:0:0:7
+ARTCC high boundary:line:11645329:3.0:0:1:7
+ARTCC boundary:line:3223857:3.0:0:0:7
+ARTCC low boundary:line:8355711:3.0:0:1:7
+Geo:line:9539985:3.0:0:1:7
+VORs:symbol:5987163:1.0:0:0:7
+VORs:name:5987163:3.0:0:0:14
+VORs:frequency:6579300:3.5:0:0:2
+NDBs:symbol:5987163:1.0:0:0:7
+NDBs:name:5987163:3.0:0:0:12
+NDBs:frequency:8421504:3.5:0:0:0
+Runways:centerline:8487297:3.0:0:1:7
+Runways:extended centerline:8487297:3.5:0:1:7
+Runways:name:8421504:3.5:0:0:7
+Datablock:non concerned:0:3.5:0:1:7
+Datablock:notified:12320768:3.5:0:1:7
+Datablock:assumed:13172680:3.5:0:0:7
+Datablock:transfer to me initiated:6934015:3.5:0:0:7
+Datablock:redundant:16777215:3.5:0:0:7
+Datablock:information:65535:3.5:0:0:7
+Datablock:even flight level:16777215:3.5:0:0:7
+Datablock:odd flight level:16777215:3.5:0:0:7
+Datablock:user 1:16777215:3.5:0:0:7
+Datablock:user 2:96:3.5:0:0:7
+Datablock:user 3:16777215:3.5:0:0:7
+Datablock:user 4:16777215:3.5:0:0:7
+Datablock:user 5:16777215:3.5:0:0:7
+Datablock:user 6:16777215:3.5:0:0:7
+Datablock:emergency:13172680:3.5:0:0:7
+Datablock:ongoing requested by me:16777215:3.5:0:0:7
+Datablock:ongoing requested by other:16777215:3.5:0:0:7
+Datablock:ongoing accepted:11527855:3.5:0:0:7
+Datablock:ongoing refused:6934015:3.5:0:0:7
+Datablock:detailed background:11053224:3.5:0:0:7
+Datablock:active item background:11053224:3.5:0:0:7
+Datablock:AC list background:10526880:3.5:0:0:7
+Datablock:AC list selected background:11842740:3.5:0:0:7
+Controller:normal:65535:3.5:0:0:7
+Controller:breaking:13408767:3.5:0:0:7
+Controller:timeout:16777215:3.5:0:0:7
+Metar:normal:16776960:3.5:0:0:7
+Metar:modified:13408767:3.5:0:0:7
+Metar:timeout:16777215:3.5:0:0:7
+Other:wait:16777215:3.5:0:0:7
+Other:distance line:11855615:3.5:0:0:7
+Other:distance values:11855615:4.0:0:0:7
+Other:distance annotation:11855615:3.5:0:0:7
+Other:separation leader:16777215:3.5:0:3:7
+Other:find:16777215:3.5:0:5:7
+Other:valid airway:12889028:3.0:1:2:2
+Other:bad direction airway:12889028:3.5:0:1:7
+Other:unconnected airway:12889028:3.5:0:1:7
+Other:direct no airway:11855615:3.5:0:2:7
+Other:route annotation:12889028:3.5:0:2:7
+Other:freetext:5987163:3.0:0:0:7
+Other:range rings:65535:5.0:0:0:2
+Other:list header:96:3.5:0:0:7
+Other:normal menu item:14211288:3.5:0:0:7
+Other:disabled menu item:8421504:3.5:0:0:7
+Transitions:transition grid:5263440:3.0:0:0:7
+Chat:text:128:3.5:0:0:7
+Chat:background:9868950:3.5:0:0:7
+Chat:name normal:128:3.5:0:0:7
+Chat:name unread:65535:3.5:0:0:7
+Sector:line:11645585:4.0:0:1:7
+Sector:active sector background:11053224:3.5:0:0:7
+Sector:inactive sector background:9737364:3.5:0:0:7
+SYMBOL:0
+SYMBOLITEM:MOVETO -3 1
+SYMBOLITEM:LINETO -1 3
+SYMBOLITEM:LINETO 1 3
+SYMBOLITEM:LINETO 3 1
+SYMBOLITEM:LINETO 3 -1
+SYMBOLITEM:LINETO 1 -3
+SYMBOLITEM:LINETO -1 -3
+SYMBOLITEM:LINETO -3 -1
+SYMBOLITEM:LINETO -3 1
+SYMBOLITEM:MOVETO 0 -3
+SYMBOLITEM:LINETO 0 -5
+SYMBOLITEM:MOVETO 0 3
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO -3 0
+SYMBOLITEM:LINETO -5 0
+SYMBOLITEM:MOVETO 3 0
+SYMBOLITEM:LINETO 5 0
+SYMBOL:1
+SYMBOLITEM:MOVETO -3 1
+SYMBOLITEM:LINETO -1 3
+SYMBOLITEM:LINETO 1 3
+SYMBOLITEM:LINETO 3 1
+SYMBOLITEM:LINETO 3 -1
+SYMBOLITEM:LINETO 1 -3
+SYMBOLITEM:LINETO -1 -3
+SYMBOLITEM:LINETO -3 -1
+SYMBOLITEM:LINETO -3 1
+SYMBOLITEM:SETPIXEL 0 0
+SYMBOLITEM:MOVETO -3 -3
+SYMBOLITEM:LINETO 3 3
+SYMBOLITEM:MOVETO -3 3
+SYMBOLITEM:LINETO 3 -3
+SYMBOLITEM:SETPIXEL 3 -3
+SYMBOLITEM:SETPIXEL 3 3
+SYMBOLITEM:SETPIXEL 0 -4
+SYMBOLITEM:SETPIXEL 0 4
+SYMBOLITEM:SETPIXEL 4 0
+SYMBOLITEM:SETPIXEL -4 0
+SYMBOL:2
+SYMBOLITEM:MOVETO -1 -3
+SYMBOLITEM:LINETO 1 -3
+SYMBOLITEM:LINETO 4 0
+SYMBOLITEM:LINETO 1 3
+SYMBOLITEM:LINETO -1 3
+SYMBOLITEM:LINETO -4 0
+SYMBOLITEM:LINETO -1 -3
+SYMBOLITEM:SETPIXEL 0 0
+SYMBOL:3
+SYMBOLITEM:MOVETO 2 -1
+SYMBOLITEM:LINETO 4 -4
+SYMBOLITEM:MOVETO -2 -1
+SYMBOLITEM:LINETO 2 -1
+SYMBOLITEM:MOVETO -2 0
+SYMBOLITEM:LINETO 2 0
+SYMBOLITEM:MOVETO -2 1
+SYMBOLITEM:LINETO 2 1
+SYMBOLITEM:MOVETO -2 2
+SYMBOLITEM:LINETO 2 2
+SYMBOLITEM:MOVETO -2 2
+SYMBOLITEM:LINETO 2 2
+SYMBOLITEM:MOVETO -2 2
+SYMBOLITEM:LINETO 2 2
+SYMBOL:4
+SYMBOLITEM:MOVETO 0 -4
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO -4 0
+SYMBOLITEM:LINETO 5 0
+SYMBOL:5
+SYMBOLITEM:MOVETO 0 -4
+SYMBOLITEM:LINETO 0 5
+SYMBOLITEM:MOVETO -4 0
+SYMBOLITEM:LINETO 5 0
+SYMBOL:6
+SYMBOLITEM:MOVETO 0 -4
+SYMBOL:7
+SYMBOLITEM:MOVETO -10 1
+SYMBOL:8
+SYMBOLITEM:MOVETO 0 -4
+SYMBOL:9
+SYMBOLITEM:MOVETO 1 1
+SYMBOL:10
+SYMBOLITEM:MOVETO -5 2
+SYMBOL:11
+SYMBOLITEM:MOVETO 1 1
+SYMBOL:12
+SYMBOLITEM:MOVETO -5 -5
+SYMBOL:13
+SYMBOLITEM:MOVETO -5 -5
+SYMBOL:14
+SYMBOLITEM:MOVETO -1 -1
+SYMBOLITEM:LINETO -1 0
+SYMBOLITEM:LINETO 0 0
+SYMBOLITEM:LINETO 0 -1
+SYMBOLITEM:LINETO -1 -1
+SYMBOL:15
+SYMBOLITEM:MOVETO 0 10
+SYMBOLITEM:LINETO 0 -10
+SYMBOLITEM:LINETO -4 0
+SYMBOLITEM:LINETO 4 0
+SYMBOLITEM:LINETO 0 -10
+SYMBOL:16
+SYMBOLITEM:MOVETO -5 2
+SYMBOL:17
+SYMBOLITEM:MOVETO 1 1
+SYMBOL:18
+SYMBOLITEM:MOVETO 0 -4
+SYMBOL:19
+SYMBOLITEM:MOVETO 1 1
+SYMBOL:20
+SYMBOLITEM:MOVETO -5 2
+SYMBOL:21
+SYMBOLITEM:MOVETO 1 1
+m_ClipArea:0
+END
+VOICE
+AG:ML-BKE:122.600:rw1.vatpac.org:ml-bke_ctr
+AG:ML-BIK:125.000:rw1.vatpac.org:ml-bik_ctr
+AG:ML-NUL:132.900:rw1.vatpac.org:ml-nul_ctr
+AG:ML-KLG:134.300:rw1.vatpac.org:ml-klg_ctr
+AG:ML-PIL:134.000:rw1.vatpac.org:ml-pil_ctr
+AG:ML-CAN:128.500:rw1.vatpac.org:ml-can_ctr
+AG:ML-SNO:125.200:rw1.vatpac.org:ml-sno_ctr
+AG:ML-TAS:123.800:rw1.vatpac.org:ml-tas_ctr
+AG:BN-KPL:133.200:rw1.vatpac.org:bn-kpl_ctr
+AG:BN-TRT:133.700:rw1.vatpac.org:bn-trt_ctr
+AG:BN-ARL:124.800:rw1.vatpac.org:bn-arl_ctr
+AG:BN-DOS:121.200:rw1.vatpac.org:bn-dos_ctr
+AG:BN_APP:124.700:rw1.vatpac.org:bn_app
+AG:BN_DEP:124.350:rw1.vatpac.org:bn_dep
+AG:BN_TWR:120.500:rw1.vatpac.org:bn_twr
+AG:BN_GND:121.700:rw1.vatpac.org:bn_gnd
+AG:BN_DEL:118.600:rw1.vatpac.org:bn_del
+AG:BN_ATIS:125.500:rw1.vatpac.org:ybbn_atis
+AG:CG_TWR:118.700:rw1.vatpac.org:cg_twr
+AG:CG_GND:121.800:rw1.vatpac.org:cg_gnd
+AG:CG_ATIS:134.500:rw1.vatpac.org:ybcg_atis
+AG:MC_TWR:124.400:rw1.vatpac.org:mc_twr
+AG:MC_GND:121.100:rw1.vatpac.org:mc_gnd
+AG:MC_ATIS:119.800:rw1.vatpac.org:ybmc_atis
+AG:AMB_APP:126.200:rw1.vatpac.org:amb_app
+AG:AMB_TWR:118.300:rw1.vatpac.org:amb_twr
+AG:AMB_GND:129.350:rw1.vatpac.org:amb_gnd
+AG:AMB_DEL:134.600:rw1.vatpac.org:amb_del
+AG:AMB_ATIS:134.000:rw1.vatpac.org:yamb_atis
+AG:AF_TWR:118.100:rw1.vatpac.org:af_twr
+AG:AF_GND:119.900:rw1.vatpac.org:af_gnd
+AG:AF_ATIS:120.900:rw1.vatpac.org:ybaf_atis
+AG:OK_APP:125.400:rw1.vatpac.org:ok_app
+AG:OK_TWR:120.100:rw1.vatpac.org:ok_twr
+AG:OK_GND:121.900:rw1.vatpac.org:ok_gnd
+AG:OK_ATIS:124.300:rw1.vatpac.org:ybok_atis
+AG:SY_APP:124.400:rw1.vatpac.org:sy_app
+AG:SY_DEP:123.000:rw1.vatpac.org:sy_dep
+AG:SY_DIR:126.100:rw1.vatpac.org:sy-d_app
+AG:SY_TWR:120.500:rw1.vatpac.org:sy_twr
+AG:SY_GND:121.700:rw1.vatpac.org:sy_gnd
+AG:SY_DEL:133.800:rw1.vatpac.org:sy_del
+AG:SY_ATIS:126.500:rw1.vatpac.org:yssy_atis
+AG:BK_TWR:132.800:rw1.vatpac.org:bk_twr
+AG:BK_GND:119.900:rw1.vatpac.org:bk_gnd
+AG:BK_ATIS:120.900:rw1.vatpac.org:ysbk_atis
+AG:CN_TWR:120.100:rw1.vatpac.org:cn_twr
+AG:CN_GND:121.900:rw1.vatpac.org:cn_gnd
+AG:CN_ATIS:125.100:rw1.vatpac.org:yscn_atis
+AG:RIC_TWR:135.500:rw1.vatpac.org:ric_twr
+AG:RIC_GND:128.250:rw1.vatpac.org:ric_gnd
+AG:RIC_ATIS:134.500:rw1.vatpac.org:ysri_atis
+AG:TW_TWR:119.400:rw1.vatpac.org:tw_twr
+AG:TW_GND:121.900:rw1.vatpac.org:tw_gnd
+AG:TW_ATIS:123.800:rw1.vatpac.org:tw_atis
+AG:WLM_APP:135.700:rw1.vatpac.org:wlm_app
+AG:WLM_TWR:118.300:rw1.vatpac.org:wlm_twr
+AG:WLM_GND:121.800:rw1.vatpac.org:wlm_gnd
+AG:WLM_DEL:130.150:rw1.vatpac.org:wlm_del
+AG:WLM_ATIS:134.000:rw1.vatpac.org:ywlm_atis
+AG:ML_APP:132.000:rw1.vatpac.org:ml_app
+AG:ML_DEP:118.900:rw1.vatpac.org:ml_dep
+AG:ML_TWR:120.500:rw1.vatpac.org:ml_twr
+AG:ML_GND:121.700:rw1.vatpac.org:ml_gnd
+AG:ML_DEL:127.200:rw1.vatpac.org:ml_del
+AG:ML_RAS:135.700:rw1.vatpac.org:ysdu
+AG:ML_ATIS:132.700:rw1.vatpac.org:ymml_atis
+AG:AV_TWR:120.100:rw1.vatpac.org:av_twr
+AG:AV_GND:129.300:rw1.vatpac.org:av_gnd
+AG:AV_ATIS:134.000:rw1.vatpac.org:ymav_atis
+AG:EN_TWR:125.100:rw1.vatpac.org:en_twr
+AG:EN_GND:121.900:rw1.vatpac.org:en_gnd
+AG:EN_ATIS:119.800:rw1.vatpac.org:ymen_atis
+AG:ES_APP:123.300:rw1.vatpac.org:es_app
+AG:ES_TWR:118.300:rw1.vatpac.org:es_twr
+AG:ES_GND:134.100:rw1.vatpac.org:es_gnd
+AG:ES_DEL:113.600:rw1.vatpac.org:es_del
+AG:ES_ATIS:134.000:rw1.vatpac.org:ymes_atis
+AG:MB_TWR:118.100:rw1.vatpac.org:MB_twr
+AG:MB_GND:119.900:rw1.vatpac.org:MB_gnd
+AG:MB_ATIS:120.900:rw1.vatpac.org:ymmb_atis
+AG:AY_TWR:124.200:rw1.vatpac.org:ay_twr
+AG:AY_ATIS:134.000:rw1.vatpac.org:ymay_atis
+AG:AD_APP:124.200:rw1.vatpac.org:ad_app
+AG:AD_TWR:120.400:rw1.vatpac.org:ad_twr
+AG:AD_GND:121.700:rw1.vatpac.org:ad_gnd
+AG:AD_DEL:126.100:rw1.vatpac.org:ad_del
+AG:AD_ATIS:134.500:rw1.vatpac.org:ypad_atis
+AG:PF_TWR:118.700:rw1.vatpac.org:pf_twr
+AG:PF_GND:119.900:rw1.vatpac.org:pf_gnd
+AG:CB_APP:124.500:rw1.vatpac.org:cb_app
+AG:CB_TWR:118.700:rw1.vatpac.org:cb_twr
+AG:CB_GND:121.700:rw1.vatpac.org:cb_gnd
+AG:CB_ATIS:127.450:rw1.vatpac.org:yscb_atis
+AG:HB_TWR:118.100:rw1.vatpac.org:hb_twr
+AG:HB_GND:121.700:rw1.vatpac.org:hb_gnd
+AG:HB_ATIS:128.400:rw1.vatpac.org:ymhb_atis
+AG:LT_TWR:118.700:rw1.vatpac.org:lt_twr
+AG:LT_ATIS:134.750:rw1.vatpac.org:ymlt_atis
+AG:YMMM_FSS:134.200:rw1.vatpac.org:YMMM_FSS
+AG:YBBB_FSS:132.100:rw1.vatpac.org:YBBB_FSS
+AG:BN-ISA:133.000:rw1.vatpac.org:bn-isa_ctr
+AG:BN-TBP:120.550:rw1.vatpac.org:BN-TBP_CTR
+AG:BN-CAH:127.600:rw1.vatpac.org:BN-CAH_CTR
+AG:BN-TSN:128.600:rw1.vatpac.org:bn-tsn_fss
+END
+PROFILE
+END
+TAGS
+TAGFAMILY:TAAATS2
+TAGTYPE:0:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:1:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:2:1:0
+TAGITEM:66::0:0:29:0::0:1:::1
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:3:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:4:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:5:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:6:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:7:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:8:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:9:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:10:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:11:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:12:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:13:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:14:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:15:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:16:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:17:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:18:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:19:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:20:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:21:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:22:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+TAGTYPE:23:0:0
+TAGITEM:1::1:0:0:0::0:1:::1
+END
+SIL
+m_Visible:0
+m_X:1184
+m_Y:103
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:19
+m_HeaderOnly:0
+m_Column:RUNW:4:1:47:19:19:1::::1
+m_Column:C/S:7:0:9:8:34:1::::0
+m_Column:PSSR:5:1:2:31:0:1::::1
+m_Column:ATYP:4:1:16:0:0:1::::1
+m_Column:WTC:3:1:10:0:0:1::::1
+m_Column:COPN:5:0:48:21:21:1::::1
+m_Column:ETN:5:1:50:0:0:1::::1
+m_Column:PEL:4:1:49:23:23:1::::1
+m_Column:ETA:5:1:54:0:0:1::::1
+m_Column:ADEP:4:1:61:1:7:1::::1
+m_Column:™:1:1:62:0:0:0::::1
+m_Column:FR:2:1:63:0:0:0::::1
+m_Column:ADES:4:1:17:1:7:0::::1
+m_Column:COPX:5:0:51:22:22:1::::1
+m_Column:ETX:5:1:53:0:0:0::::1
+m_Column:XFL:4:1:52:24:24:0::::1
+m_Column:STAR:7:0:55:18:18:0::::1
+m_Column:SI:3:1:64:20:0:1::::1
+m_Column:ASSR:5:1:60:31:31:1::::1
+END
+SEL
+m_Visible:0
+m_X:1187
+m_Y:230
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:DCT:7:0:34:10:0:1::::0
+m_Column:RWY:4:1:47:19:19:1::::1
+m_Column:C/S:7:1:9:8:33:1::::4
+m_Column:ATYP:4:1:16:34:0:0::::1
+m_Column:WTC:3:1:10:0:0:0::::1
+m_Column:SSR:5:1:2:0:0:1::::1
+m_Column:ASSR:5:1:60:31:31:1::::1
+m_Column:AFL:4:1:4:16:1:0::::1
+m_Column:CFL:3:1:20:11:0:1::::2
+m_Column:ADEP:4:1:61:0:0:0::::1
+m_Column:SID:7:1:56:17:17:1::::1
+m_Column:ADES:4:1:17:1:7:1::::1
+m_Column:STAR:7:1:55:18:18:1::::1
+m_Column:ETA:5:1:54:35:0:1::::1
+m_Column:RFL:4:1:22:30:30:1::::1
+m_Column:FR:2:1:63:0:0:0::::1
+m_Column:™:1:1:62:0:0:0::::1
+m_Column:COPX:5:0:51:22:22:0::::1
+m_Column:ETX:5:1:53:0:0:0::::1
+m_Column:XFL:4:1:52:24:24:0::::1
+m_Column:SI:3:1:64:20:0:1::::1
+m_Column:HDG:7:0:66:29:0:0::::0
+m_Column:dct:7:0:34:0:0:0::::0
+m_Column:C/S:7:0:25:0:0:0::::0
+END
+DEP
+m_Visible:0
+m_X:1187
+m_Y:262
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:18
+m_HeaderOnly:0
+m_Column:ADEP:4:1:61:0:0:1::::1
+m_Column:C/S:7:1:9:8:34:1::::4
+m_Column:DSQ:3:1:57:0:0:0::::1
+m_Column:WTC:3:1:10:0:0:0::::1
+m_Column:ADES:4:1:17:1:7:1::::1
+m_Column:RWY:3:1:47:19:19:1::::1
+m_Column:SID:7:1:56:17:17:1::::1
+m_Column:COPN:5:1:48:21:21:0::::1
+m_Column:CFL:4:1:20:11:0:1::::3
+m_Column:ASSR:5:1:60:31:31:1::::1
+m_Column:E:1:1:58:27:0:0::::1
+m_Column:COPX:5:1:51:22:22:1::::1
+m_Column:XFL:4:1:52:24:24:0::::1
+m_Column:RFL:4:1:22:30:30:1::::1
+m_Column:FR:2:1:63:0:0:1::::1
+m_Column:ATYP:4:1:16:0:0:1::::1
+m_Column:™:1:1:62:0:0:0::::1
+m_Column:STS:4:1:59:28:28:1::::1
+m_Column:SI:4:1:64:20:0:1::::0
+END
+ARR
+m_Visible:0
+m_X:0
+m_Y:400
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:0:0:1::::1739668558
+m_Column:TXT:6:1:19:29:0:1::::1739668558
+END
+FP
+m_Visible:0
+m_X:1471
+m_Y:137
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:7:0:9:8:0:1::::1739668558
+m_Column:ADEP:5:1:61:0:0:1::::1739668558
+m_Column:ADES:5:1:17:7:0:1::::1739668558
+m_Column:STS:6:1:82:34:34:1::::1739668558
+END
+PLUGINS

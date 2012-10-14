@@ -1,0 +1,55 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Documents and Settings\Andrew Heath\My Documents\EuroScope\Sectors\ZNY.sct2
+SECTORTITLE:ZNY.sct2
+Geo:APPROACHES:
+Geo:GEO:
+Geo:KABE:
+Geo:KAVP:
+Geo:KBDR:
+Geo:KBGM:
+Geo:KCDW:
+Geo:KCXY:
+Geo:KELM:
+Geo:KEWR:
+Geo:KFOK:
+Geo:KFRG:
+Geo:KHPN:
+Geo:KHVN:
+Geo:KILG:
+Geo:KIPT:
+Geo:KISP:
+Geo:KITH:
+Geo:KLGA:
+Geo:KLNS:
+Geo:KMDT:
+Geo:KMMU:
+Geo:KPHL:
+Geo:KPNE:
+Geo:KPOU:
+Geo:KRDG:
+Geo:KTEB:
+Geo:KTTN:
+Geo:KWRI:
+Sids:+ Islip:
+Sids:+ Kennedy 31's:
+Sids:+ LaGuardia:
+Sids:+ Liberty Catskill:
+Sids:+ Newark:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:DSR
+WINDOWAREA:39.531893:-75.258021:42.090334:-71.452019
+PLUGIN:Final Count Down:FCDSHOW:FALSE
+PLUGIN:Final Count Down:FCDXPOS:100
+PLUGIN:Final Count Down:FCDYPOS:100

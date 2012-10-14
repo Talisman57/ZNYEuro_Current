@@ -1,0 +1,83 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Jorge Rojas\Documents\EuroScope\Sectors\ZNY_Gray 1111.sct2
+SECTORTITLE:ZNY_Gray 1111.sct2
+ARTCC low boundary:CLASSB-NY:
+Free Text:ABE Class C\[44/19]:freetext
+Free Text:ABE Class C\[44/22]:freetext
+Free Text:ABE Class C\[44/28]:freetext
+Free Text:ABE Class C\[44/SFC]:freetext
+Free Text:CLASS B\[70/15]:freetext
+Free Text:CLASS B\[70/30]:freetext
+Free Text:CLASS B\[70/40]:freetext
+Free Text:CLASS B\[70/SFC]:freetext
+Free Text:CLASS D\[26] :freetext
+Free Text:CLASS D\[26] :freetext
+Free Text:CLASS D\[26] :freetext
+Free Text:CLASS D\[27] :freetext
+Free Text:CLASS D\[29] :freetext
+Free Text:ISP Class C\[41/07]:freetext
+Free Text:ISP Class C\[41/15]:freetext
+Free Text:ISP Class C\[41/SFC]:freetext
+Free Text:NY Class B\[70/05]:freetext
+Free Text:NY Class B\[70/05]:freetext
+Free Text:NY Class B\[70/05]:freetext
+Free Text:NY Class B\[70/05]:freetext
+Free Text:NY Class B\[70/08]:freetext
+Free Text:NY Class B\[70/11]:freetext
+Free Text:NY Class B\[70/11]:freetext
+Free Text:NY Class B\[70/11]:freetext
+Free Text:NY Class B\[70/12]:freetext
+Free Text:NY Class B\[70/12]:freetext
+Free Text:NY Class B\[70/15]:freetext
+Free Text:NY Class B\[70/15]:freetext
+Free Text:NY Class B\[70/15]:freetext
+Free Text:NY Class B\[70/30]:freetext
+Free Text:NY Class B\[70/30]:freetext
+Free Text:NY Class B\[70/40]:freetext
+Free Text:NY Class B\[70/SFC]:freetext
+Free Text:NY Class B\[70/SFC]:freetext
+Free Text:NY Class B\[70/SFC]:freetext
+Free Text:NY Class D\[25]:freetext
+Free Text:NY Class D\[26]:freetext
+Free Text:NY Class D\[27]:freetext
+Free Text:NY Class D\[27]:freetext
+Free Text:NY Class D\[30]:freetext
+Free Text:ZNY Class D\[25]:freetext
+Free Text:ZNY Class D\[25]:freetext
+Free Text:ZNY Class D\[26]:freetext
+Free Text:ZNY Class D\[26]:freetext
+Free Text:ZNY Class D\[27]:freetext
+Free Text:ZNY Class D\[28]:freetext
+Free Text:ZNY Class D\[28]:freetext
+Free Text:ZNY Class D\[28]:freetext
+Free Text:ZNY Class D\[29]:freetext
+Free Text:ZNY Class D\[30]:freetext
+Free Text:ZNY Class D\[30]:freetext
+Free Text:ZNY Class D\[30]:freetext
+Free Text:ZNY Class D\[30]:freetext
+Free Text:ZNY Class D\[32]:freetext
+Free Text:ZNY Class D\[35]:freetext
+Free Text:ZNY Class D\[35]:freetext
+Free Text:ZNY Class D\[36]:freetext
+Free Text:ZNY Class D\[41]:freetext
+Geo:KJFK:
+Sids:+ Kennedy 31's:
+Sids:+ Kennedy Video Map:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:ACSiT Custom
+WINDOWAREA:39.879786:-74.654424:41.262469:-72.739209
+PLUGIN:Final Count Down:FCDSHOW:FALSE
+PLUGIN:Final Count Down:FCDXPOS:100
+PLUGIN:Final Count Down:FCDYPOS:100

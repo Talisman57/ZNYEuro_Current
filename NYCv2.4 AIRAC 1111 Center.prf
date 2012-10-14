@@ -1,0 +1,75 @@
+Settings	sector	\Sectors\ZNY.sct2
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	SettingsfileSYMBOLOGY	\SettingsCTR\adawg.txt
+Settings	SettingsfileVOICE	\SettingsCTR\settings.txt
+Settings	SettingsfilePROFILE	\SettingsCTR\settings.txt
+Settings	SettingsfileTAGS	\SettingsCTR\adawg.txt
+Settings	SettingsfileSIL	\SettingsCTR\adawg.txt
+Settings	SettingsfileSEL	\SettingsCTR\settings.txt
+Settings	SettingsfileDEP	\SettingsCTR\settings.txt
+Settings	SettingsfileARR	\SettingsCTR\settings.txt
+Settings	SettingsfileFP	\SettingsCTR\settings.txt
+Settings	SettingsfilePLUGINS	\SettingsCTR\settings.txt
+Settings	Settingsfile	\SettingsCTR\adawg.txt
+Settings	SettingsfileSCREEN	\SettingsCTR\settings.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Voice	Grammar	\Settings\ESGrammar.txt
+Voice	input_hardware	Wave - SoundMAX Digital Audio
+Voice	output_hardware	Wave - SoundMAX Digital Audio
+Voice	input_hardware2	Wave - SB Audigy 2 ZS Audio [CF00]
+Voice	output_hardware2	Wave - SB Audigy 2 ZS Audio [CF00]
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	6
+LastSession	range	300
+Voice	squelch	8910.4
+Voice	squelch2	181.4
+Voice	PPPT	7077888
+LastSession	atis_airport	kjfk
+LastSession	atis_letter	80
+Settings	alias	\ZNY_ALIAS.txt
+Plugins	Plugin0	\Plugins\CountDown.dll
+Plugins	Plugin0Display0	Final Count Down
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Plugins	Plugin1	\Plugins\DSRTags.dll
+Plugins	Plugin1Display0	Final Count Down
+LastSession	scenario	C:\Users\JorgeRojas\Downloads\ALL 3 14-16 MIT UNSYNC ES LGA.txt
+Voice	SPPT	18677760
+Plugins	Plugin0Display1	Standard ES radar screen
+Settings	airways	\airway.txt
+Plugins	Plugin2	\Plugins\HoldingListPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\Plugins\euroSticky.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Settings	AtisFolder	\atis_zny_uniatis\atis_zny_uniatis\atisfiles.txt
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin4	\Plugins\euroNAT.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+RecentFiles	Recent2	\Sectors\ASR\N90 COMBINED.asr
+RecentFiles	Recent3	\Sectors\ASR\JFK AIRPORT.asr
+LastSession	realname	Andrew Heath
+LastSession	server	USA-N
+RecentFiles	Recent4	\Sectors\ASR\NY CENTER.asr
+RecentFiles	Recent5	\NY CENTER.asr
+RecentFiles	Recent6	\Sectors\ASR\PHL TRACON.asr
+RecentFiles	Recent7	\Sectors\ASR\EWR AIRPORT.asr
+RecentFiles	Recent8	\Sectors\ASR\LGA AIRPORT.asr
+RecentFiles	Recent9	\Sectors\ASR\PHL AIRPORT.asr
+RecentFiles	Recent10	\Sectors\ASR\PHL AIRPORT.asr
+RecentFiles	Recent11	\Sectors\ASR\PHL AIRPORT.asr
+LastSession	callsign	ZNY_AJ_OBS
+LastSession	playback	C:\EuroScope20120429.txt
+ASRFastKeys	1	\Sectors\ASR\ZNY ARTCC.asr
+ASRFastKeys	2	\Sectors\ASR\N90 COMBINED.asr
+ASRFastKeys	3	\Sectors\ASR\JFK AIRPORT.asr
+ASRFastKeys	4	\Sectors\ASR\LGA AIRPORT.asr
+ASRFastKeys	5	\Sectors\ASR\EWR AIRPORT.asr
+ASRFastKeys	6	\Sectors\ASR\PHL TRACON.asr
+ASRFastKeys	7	\Sectors\ASR\PHL AIRPORT.asr
+LastSession	certificate	810253
+Voice	bass_filter	1
+RecentFiles	Recent1	\Sectors\ASR\ZNY ARTCC.asr
+Plugins	Plugin5	\Plugins\UKAssistant.dll
+Plugins	Plugin5Display0	Standard ES radar screen
